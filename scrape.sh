@@ -1,8 +1,8 @@
 #!/bin/bash
 ./download.sh 'https://store.aldi.com.au/'
-./download.sh 'https://store.aldi.com.au/act'
-./download.sh 'https://store.aldi.com.au/nsw'
-./download.sh 'https://store.aldi.com.au/qld'
-./download.sh 'https://store.aldi.com.au/sa'
-./download.sh 'https://store.aldi.com.au/vic'
-./download.sh 'https://store.aldi.com.au/wa'
+./download.sh 'https://store.aldi.com.au/act' --extract-stores
+./download.sh 'https://store.aldi.com.au/nsw' --extract-stores
+./download.sh 'https://store.aldi.com.au/qld' --extract-stores
+./download.sh 'https://store.aldi.com.au/sa' --extract-stores
+./download.sh 'https://store.aldi.com.au/vic' --extract-stores
+./download.sh 'https://store.aldi.com.au/wa' --extract-stores
