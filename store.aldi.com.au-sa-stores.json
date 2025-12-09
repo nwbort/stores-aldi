@@ -1,0 +1,431 @@
+{
+  "source": "ALDI Store Locator",
+  "page_title": "47 ALDI Locations",
+  "location": "Use my location",
+  "total_stores": 47,
+  "stores": [
+    {
+      "url_path": "sa/adelaide/2-butler-boulevard",
+      "state": "SA",
+      "suburb": "Adelaide",
+      "address_slug": "2-butler-boulevard",
+      "address": "2 Butler Boulevard",
+      "store_count": 1,
+      "name": "Adelaide"
+    },
+    {
+      "url_path": "sa/aldinga/main-south-road-1",
+      "state": "SA",
+      "suburb": "Aldinga",
+      "address_slug": "main-south-road-1",
+      "address": "Main South Road 1",
+      "store_count": 1,
+      "name": "Aldinga"
+    },
+    {
+      "url_path": "sa/berri/kay-avenue-32",
+      "state": "SA",
+      "suburb": "Berri",
+      "address_slug": "kay-avenue-32",
+      "address": "Kay Avenue 32",
+      "store_count": 1,
+      "name": "Berri"
+    },
+    {
+      "url_path": "sa/blackwood/main-road-198-200",
+      "state": "SA",
+      "suburb": "Blackwood",
+      "address_slug": "main-road-198-200",
+      "address": "Main Road 198 200",
+      "store_count": 1,
+      "name": "Blackwood"
+    },
+    {
+      "url_path": "sa/blakeview/main-terrace-15",
+      "state": "SA",
+      "suburb": "Blakeview",
+      "address_slug": "main-terrace-15",
+      "address": "Main Terrace 15",
+      "store_count": 1,
+      "name": "Blakeview"
+    },
+    {
+      "url_path": "sa/clovelly-park/south-road-1160",
+      "state": "SA",
+      "suburb": "Clovelly-Park",
+      "address_slug": "south-road-1160",
+      "address": "South Road 1160",
+      "store_count": 1,
+      "name": "Clovelly Park"
+    },
+    {
+      "url_path": "sa/evanston/tulloch-road-1",
+      "state": "SA",
+      "suburb": "Evanston",
+      "address_slug": "tulloch-road-1",
+      "address": "Tulloch Road 1",
+      "store_count": 1,
+      "name": "Evanston"
+    },
+    {
+      "url_path": "sa/findon/grange-road-263-271",
+      "state": "SA",
+      "suburb": "Findon",
+      "address_slug": "grange-road-263-271",
+      "address": "Grange Road 263 271",
+      "store_count": 1,
+      "name": "Findon"
+    },
+    {
+      "url_path": "sa/gawler/5-7-tod-street",
+      "state": "SA",
+      "suburb": "Gawler",
+      "address_slug": "5-7-tod-street",
+      "address": "5 7 Tod Street",
+      "store_count": 1,
+      "name": "Gawler"
+    },
+    {
+      "url_path": "sa/gilles-plains/north-east-road-575",
+      "state": "SA",
+      "suburb": "Gilles-Plains",
+      "address_slug": "north-east-road-575",
+      "address": "North East Road 575",
+      "store_count": 1,
+      "name": "Gilles Plains"
+    },
+    {
+      "url_path": "sa/glenelg-north/anzac-highway-601",
+      "state": "SA",
+      "suburb": "Glenelg-North",
+      "address_slug": "anzac-highway-601",
+      "address": "Anzac Highway 601",
+      "store_count": 1,
+      "name": "Glenelg North"
+    },
+    {
+      "url_path": "sa/glenunga/portrush-road-499-505",
+      "state": "SA",
+      "suburb": "Glenunga",
+      "address_slug": "portrush-road-499-505",
+      "address": "Portrush Road 499 505",
+      "store_count": 1,
+      "name": "Glenunga"
+    },
+    {
+      "url_path": "sa/glynde/19-29-glynburn-road",
+      "state": "SA",
+      "suburb": "Glynde",
+      "address_slug": "19-29-glynburn-road",
+      "address": "19 29 Glynburn Road",
+      "store_count": 1,
+      "name": "Glynde"
+    },
+    {
+      "url_path": "sa/golden-grove/helicon-drive-the-golden-way-cnr",
+      "state": "SA",
+      "suburb": "Golden-Grove",
+      "address_slug": "helicon-drive-the-golden-way-cnr",
+      "address": "Helicon Drive The Golden Way Cnr",
+      "store_count": 1,
+      "name": "Golden Grove"
+    },
+    {
+      "url_path": "sa/hallett-cove/lonsdale-road-246",
+      "state": "SA",
+      "suburb": "Hallett-Cove",
+      "address_slug": "lonsdale-road-246",
+      "address": "Lonsdale Road 246",
+      "store_count": 1,
+      "name": "Hallett Cove"
+    },
+    {
+      "url_path": "sa/hawthorn/belair-road-198",
+      "state": "SA",
+      "suburb": "Hawthorn",
+      "address_slug": "belair-road-198",
+      "address": "Belair Road 198",
+      "store_count": 1,
+      "name": "Hawthorn"
+    },
+    {
+      "url_path": "sa/hayborough/56-60-adelaide-road",
+      "state": "SA",
+      "suburb": "Hayborough",
+      "address_slug": "56-60-adelaide-road",
+      "address": "56 60 Adelaide Road",
+      "store_count": 1,
+      "name": "Hayborough"
+    },
+    {
+      "url_path": "sa/ingle-farm/montague-road-237",
+      "state": "SA",
+      "suburb": "Ingle-Farm",
+      "address_slug": "montague-road-237",
+      "address": "Montague Road 237",
+      "store_count": 1,
+      "name": "Ingle Farm"
+    },
+    {
+      "url_path": "sa/kadina/frances-terrace-10",
+      "state": "SA",
+      "suburb": "Kadina",
+      "address_slug": "frances-terrace-10",
+      "address": "Frances Terrace 10",
+      "store_count": 1,
+      "name": "Kadina"
+    },
+    {
+      "url_path": "sa/kensington-park/magill-road-398",
+      "state": "SA",
+      "suburb": "Kensington-Park",
+      "address_slug": "magill-road-398",
+      "address": "Magill Road 398",
+      "store_count": 1,
+      "name": "Kensington Park"
+    },
+    {
+      "url_path": "sa/kilburn/churchill-road-400",
+      "state": "SA",
+      "suburb": "Kilburn",
+      "address_slug": "churchill-road-400",
+      "address": "Churchill Road 400",
+      "store_count": 1,
+      "name": "Kilburn"
+    },
+    {
+      "url_path": "sa/kilkenny/torrens-road-470",
+      "state": "SA",
+      "suburb": "Kilkenny",
+      "address_slug": "torrens-road-470",
+      "address": "Torrens Road 470",
+      "store_count": 1,
+      "name": "Kilkenny"
+    },
+    {
+      "url_path": "sa/mawson-lakes/main-street-1-7",
+      "state": "SA",
+      "suburb": "Mawson-Lakes",
+      "address_slug": "main-street-1-7",
+      "address": "Main Street 1 7",
+      "store_count": 1,
+      "name": "Mawson Lakes"
+    },
+    {
+      "url_path": "sa/modbury/972-976-north-east-road",
+      "state": "SA",
+      "suburb": "Modbury",
+      "address_slug": "972-976-north-east-road",
+      "address": "972 976 North East Road",
+      "store_count": 1,
+      "name": "Modbury"
+    },
+    {
+      "url_path": "sa/morphett-vale/sherriffs-road-90-108",
+      "state": "SA",
+      "suburb": "Morphett-Vale",
+      "address_slug": "sherriffs-road-90-108",
+      "address": "Sherriffs Road 90 108",
+      "store_count": 1,
+      "name": "Morphett Vale"
+    },
+    {
+      "url_path": "sa/mount-barker/hutchinson-street-22-28",
+      "state": "SA",
+      "suburb": "Mount-Barker",
+      "address_slug": "hutchinson-street-22-28",
+      "address": "Hutchinson Street 22 28",
+      "store_count": 1,
+      "name": "Mount Barker"
+    },
+    {
+      "url_path": "sa/mount-gambier/commercial-street-east-58-74",
+      "state": "SA",
+      "suburb": "Mount-Gambier",
+      "address_slug": "commercial-street-east-58-74",
+      "address": "Commercial Street East 58 74",
+      "store_count": 1,
+      "name": "Mount Gambier"
+    },
+    {
+      "url_path": "sa/munno-para-west/curtis-road-440",
+      "state": "SA",
+      "suburb": "Munno-Para-West",
+      "address_slug": "curtis-road-440",
+      "address": "Curtis Road 440",
+      "store_count": 1,
+      "name": "Munno Para West"
+    },
+    {
+      "url_path": "sa/murray-bridge/adelaide-road-105-109",
+      "state": "SA",
+      "suburb": "Murray-Bridge",
+      "address_slug": "adelaide-road-105-109",
+      "address": "Adelaide Road 105 109",
+      "store_count": 1,
+      "name": "Murray Bridge"
+    },
+    {
+      "url_path": "sa/newton/gorge-road-174-178",
+      "state": "SA",
+      "suburb": "Newton",
+      "address_slug": "gorge-road-174-178",
+      "address": "Gorge Road 174 178",
+      "store_count": 1,
+      "name": "Newton"
+    },
+    {
+      "url_path": "sa/noarlunga/cnr-beach-road-goldsmith-drive",
+      "state": "SA",
+      "suburb": "Noarlunga",
+      "address_slug": "cnr-beach-road-goldsmith-drive",
+      "address": "Cnr Beach Road Goldsmith Drive",
+      "store_count": 1,
+      "name": "Noarlunga"
+    },
+    {
+      "url_path": "sa/norwood/magill-road-76",
+      "state": "SA",
+      "suburb": "Norwood",
+      "address_slug": "magill-road-76",
+      "address": "Magill Road 76",
+      "store_count": 1,
+      "name": "Norwood"
+    },
+    {
+      "url_path": "sa/nuriootpa/murray-street-1",
+      "state": "SA",
+      "suburb": "Nuriootpa",
+      "address_slug": "murray-street-1",
+      "address": "Murray Street 1",
+      "store_count": 1,
+      "name": "Nuriootpa"
+    },
+    {
+      "url_path": "sa/oaklands-park/297-diagonal-road",
+      "state": "SA",
+      "suburb": "Oaklands-Park",
+      "address_slug": "297-diagonal-road",
+      "address": "297 Diagonal Road",
+      "store_count": 1,
+      "name": "Oaklands Park"
+    },
+    {
+      "url_path": "sa/parafield-gardens/lavender-drive-88-94",
+      "state": "SA",
+      "suburb": "Parafield-Gardens",
+      "address_slug": "lavender-drive-88-94",
+      "address": "Lavender Drive 88 94",
+      "store_count": 1,
+      "name": "Parafield Gardens"
+    },
+    {
+      "url_path": "sa/plympton/cnr-anzac-highway-marion-road",
+      "state": "SA",
+      "suburb": "Plympton",
+      "address_slug": "cnr-anzac-highway-marion-road",
+      "address": "Cnr Anzac Highway Marion Road",
+      "store_count": 1,
+      "name": "Plympton"
+    },
+    {
+      "url_path": "sa/port-adelaide/commercial-road-200-220",
+      "state": "SA",
+      "suburb": "Port-Adelaide",
+      "address_slug": "commercial-road-200-220",
+      "address": "Commercial Road 200 220",
+      "store_count": 1,
+      "name": "Port Adelaide"
+    },
+    {
+      "url_path": "sa/port-pirie/wandearah-road-8",
+      "state": "SA",
+      "suburb": "Port-Pirie",
+      "address_slug": "wandearah-road-8",
+      "address": "Wandearah Road 8",
+      "store_count": 1,
+      "name": "Port Pirie"
+    },
+    {
+      "url_path": "sa/prospect/main-north-road-106",
+      "state": "SA",
+      "suburb": "Prospect",
+      "address_slug": "main-north-road-106",
+      "address": "Main North Road 106",
+      "store_count": 1,
+      "name": "Prospect"
+    },
+    {
+      "url_path": "sa/salisbury/park-terrace-41-49",
+      "state": "SA",
+      "suburb": "Salisbury",
+      "address_slug": "park-terrace-41-49",
+      "address": "Park Terrace 41 49",
+      "store_count": 1,
+      "name": "Salisbury"
+    },
+    {
+      "url_path": "sa/seaford-heights/vista-parade-1",
+      "state": "SA",
+      "suburb": "Seaford-Heights",
+      "address_slug": "vista-parade-1",
+      "address": "Vista Parade 1",
+      "store_count": 1,
+      "name": "Seaford Heights"
+    },
+    {
+      "url_path": "sa/smithfield/12-george-mccullum-road",
+      "state": "SA",
+      "suburb": "Smithfield",
+      "address_slug": "12-george-mccullum-road",
+      "address": "12 George Mccullum Road",
+      "store_count": 1,
+      "name": "Smithfield"
+    },
+    {
+      "url_path": "sa/st-agnes/north-east-road-1244",
+      "state": "SA",
+      "suburb": "St-Agnes",
+      "address_slug": "north-east-road-1244",
+      "address": "North East Road 1244",
+      "store_count": 1,
+      "name": "St Agnes"
+    },
+    {
+      "url_path": "sa/stirling/pomona-road-3-5",
+      "state": "SA",
+      "suburb": "Stirling",
+      "address_slug": "pomona-road-3-5",
+      "address": "Pomona Road 3 5",
+      "store_count": 1,
+      "name": "Stirling"
+    },
+    {
+      "url_path": "sa/west-lakes/frederick-road-44",
+      "state": "SA",
+      "suburb": "West-Lakes",
+      "address_slug": "frederick-road-44",
+      "address": "Frederick Road 44",
+      "store_count": 1,
+      "name": "West Lakes"
+    },
+    {
+      "url_path": "sa/whyalla-norrie/ekblom-street-10-14",
+      "state": "SA",
+      "suburb": "Whyalla-Norrie",
+      "address_slug": "ekblom-street-10-14",
+      "address": "Ekblom Street 10 14",
+      "store_count": 1,
+      "name": "Whyalla Norrie"
+    },
+    {
+      "url_path": "sa/woodcroft/bains-road-201",
+      "state": "SA",
+      "suburb": "Woodcroft",
+      "address_slug": "bains-road-201",
+      "address": "Bains Road 201",
+      "store_count": 1,
+      "name": "Woodcroft"
+    }
+  ]
+}

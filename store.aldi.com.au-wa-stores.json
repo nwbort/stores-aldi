@@ -1,0 +1,476 @@
+{
+  "source": "ALDI Store Locator",
+  "page_title": "52 ALDI Locations",
+  "location": "Use my location",
+  "total_stores": 52,
+  "stores": [
+    {
+      "url_path": "wa/albany/albany-highway-70-80",
+      "state": "WA",
+      "suburb": "Albany",
+      "address_slug": "albany-highway-70-80",
+      "address": "Albany Highway 70 80",
+      "store_count": 1,
+      "name": "Albany"
+    },
+    {
+      "url_path": "wa/armadale/jull-street-224",
+      "state": "WA",
+      "suburb": "Armadale",
+      "address_slug": "jull-street-224",
+      "address": "Jull Street 224",
+      "store_count": 1,
+      "name": "Armadale"
+    },
+    {
+      "url_path": "wa/australind/mardo-avenue-5",
+      "state": "WA",
+      "suburb": "Australind",
+      "address_slug": "mardo-avenue-5",
+      "address": "Mardo Avenue 5",
+      "store_count": 1,
+      "name": "Australind"
+    },
+    {
+      "url_path": "wa/baldivis/26-safety-bay-road",
+      "state": "WA",
+      "suburb": "Baldivis",
+      "address_slug": "26-safety-bay-road",
+      "address": "26 Safety Bay Road",
+      "store_count": 1,
+      "name": "Baldivis"
+    },
+    {
+      "url_path": "wa/banksia-grove/jewel-way-3",
+      "state": "WA",
+      "suburb": "Banksia-Grove",
+      "address_slug": "jewel-way-3",
+      "address": "Jewel Way 3",
+      "store_count": 1,
+      "name": "Banksia Grove"
+    },
+    {
+      "url_path": "wa/beechboro/altone-park-road-161",
+      "state": "WA",
+      "suburb": "Beechboro",
+      "address_slug": "altone-park-road-161",
+      "address": "Altone Park Road 161",
+      "store_count": 1,
+      "name": "Beechboro"
+    },
+    {
+      "url_path": "wa/beeliar/beeliar-drive-283",
+      "state": "WA",
+      "suburb": "Beeliar",
+      "address_slug": "beeliar-drive-283",
+      "address": "Beeliar Drive 283",
+      "store_count": 1,
+      "name": "Beeliar"
+    },
+    {
+      "url_path": "wa/bunbury/edward-street-9",
+      "state": "WA",
+      "suburb": "Bunbury",
+      "address_slug": "edward-street-9",
+      "address": "Edward Street 9",
+      "store_count": 1,
+      "name": "Bunbury"
+    },
+    {
+      "url_path": "wa/busselton/west-street-90",
+      "state": "WA",
+      "suburb": "Busselton",
+      "address_slug": "west-street-90",
+      "address": "West Street 90",
+      "store_count": 1,
+      "name": "Busselton"
+    },
+    {
+      "url_path": "wa/butler/butler-boulevard-77",
+      "state": "WA",
+      "suburb": "Butler",
+      "address_slug": "butler-boulevard-77",
+      "address": "Butler Boulevard 77",
+      "store_count": 1,
+      "name": "Butler"
+    },
+    {
+      "url_path": "wa/byford/south-western-highway-845",
+      "state": "WA",
+      "suburb": "Byford",
+      "address_slug": "south-western-highway-845",
+      "address": "South Western Highway 845",
+      "store_count": 1,
+      "name": "Byford"
+    },
+    {
+      "url_path": "wa/camillo/westfield-road-131",
+      "state": "WA",
+      "suburb": "Camillo",
+      "address_slug": "westfield-road-131",
+      "address": "Westfield Road 131",
+      "store_count": 1,
+      "name": "Camillo"
+    },
+    {
+      "url_path": "wa/cannington/albany-highway-1383",
+      "state": "WA",
+      "suburb": "Cannington",
+      "address_slug": "albany-highway-1383",
+      "address": "Albany Highway 1383",
+      "store_count": 1,
+      "name": "Cannington"
+    },
+    {
+      "url_path": "wa/clarkson/36-ocean-keys-blvd",
+      "state": "WA",
+      "suburb": "Clarkson",
+      "address_slug": "36-ocean-keys-blvd",
+      "address": "36 Ocean Keys Blvd",
+      "store_count": 1,
+      "name": "Clarkson"
+    },
+    {
+      "url_path": "wa/cloverdale/227-belmont-avenue",
+      "state": "WA",
+      "suburb": "Cloverdale",
+      "address_slug": "227-belmont-avenue",
+      "address": "227 Belmont Avenue",
+      "store_count": 1,
+      "name": "Cloverdale"
+    },
+    {
+      "url_path": "wa/currambine/86-delamere-avenue",
+      "state": "WA",
+      "suburb": "Currambine",
+      "address_slug": "86-delamere-avenue",
+      "address": "86 Delamere Avenue",
+      "store_count": 1,
+      "name": "Currambine"
+    },
+    {
+      "url_path": "wa/east-victoria-park/albany-highway-10091013",
+      "state": "WA",
+      "suburb": "East-Victoria-Park",
+      "address_slug": "albany-highway-10091013",
+      "address": "Albany Highway 10091013",
+      "store_count": 1,
+      "name": "East Victoria Park"
+    },
+    {
+      "url_path": "wa/ellenbrook/cnr-the-promenade-pinaster-pd",
+      "state": "WA",
+      "suburb": "Ellenbrook",
+      "address_slug": "cnr-the-promenade-pinaster-pd",
+      "address": "Cnr The Promenade Pinaster Pd",
+      "store_count": 1,
+      "name": "Ellenbrook"
+    },
+    {
+      "url_path": "wa/halls-head/guava-way-14",
+      "state": "WA",
+      "suburb": "Halls-Head",
+      "address_slug": "guava-way-14",
+      "address": "Guava Way 14",
+      "store_count": 1,
+      "name": "Halls Head"
+    },
+    {
+      "url_path": "wa/harrisdale/cnr-nicholson-road-yellowwood-avenue",
+      "state": "WA",
+      "suburb": "Harrisdale",
+      "address_slug": "cnr-nicholson-road-yellowwood-avenue",
+      "address": "Cnr Nicholson Road Yellowwood Avenue",
+      "store_count": 1,
+      "name": "Harrisdale"
+    },
+    {
+      "url_path": "wa/hillarys/cnr-marmion-avenue-whitfords-ave",
+      "state": "WA",
+      "suburb": "Hillarys",
+      "address_slug": "cnr-marmion-avenue-whitfords-ave",
+      "address": "Cnr Marmion Avenue Whitfords Ave",
+      "store_count": 1,
+      "name": "Hillarys"
+    },
+    {
+      "url_path": "wa/inglewood/beaufort-street-tenth-avenue-cnr",
+      "state": "WA",
+      "suburb": "Inglewood",
+      "address_slug": "beaufort-street-tenth-avenue-cnr",
+      "address": "Beaufort Street Tenth Avenue Cnr",
+      "store_count": 1,
+      "name": "Inglewood"
+    },
+    {
+      "url_path": "wa/innaloo/ellen-stirling-boulevard",
+      "state": "WA",
+      "suburb": "Innaloo",
+      "address_slug": "ellen-stirling-boulevard",
+      "address": "Ellen Stirling Boulevard",
+      "store_count": 1,
+      "name": "Innaloo"
+    },
+    {
+      "url_path": "wa/joondalup/420-joondalup-drive",
+      "state": "WA",
+      "suburb": "Joondalup",
+      "address_slug": "420-joondalup-drive",
+      "address": "420 Joondalup Drive",
+      "store_count": 1,
+      "name": "Joondalup"
+    },
+    {
+      "url_path": "wa/kalamunda/mead-street-17",
+      "state": "WA",
+      "suburb": "Kalamunda",
+      "address_slug": "mead-street-17",
+      "address": "Mead Street 17",
+      "store_count": 1,
+      "name": "Kalamunda"
+    },
+    {
+      "url_path": "wa/kardinya/south-street-17",
+      "state": "WA",
+      "suburb": "Kardinya",
+      "address_slug": "south-street-17",
+      "address": "South Street 17",
+      "store_count": 1,
+      "name": "Kardinya"
+    },
+    {
+      "url_path": "wa/karrinyup/200-karrinyup-road",
+      "state": "WA",
+      "suburb": "Karrinyup",
+      "address_slug": "200-karrinyup-road",
+      "address": "200 Karrinyup Road",
+      "store_count": 1,
+      "name": "Karrinyup"
+    },
+    {
+      "url_path": "wa/kwinana/meares-avenue-32",
+      "state": "WA",
+      "suburb": "Kwinana",
+      "address_slug": "meares-avenue-32",
+      "address": "Meares Avenue 32",
+      "store_count": 1,
+      "name": "Kwinana"
+    },
+    {
+      "url_path": "wa/lakelands/lake-valley-drive-seppings-parade-cnr",
+      "state": "WA",
+      "suburb": "Lakelands",
+      "address_slug": "lake-valley-drive-seppings-parade-cnr",
+      "address": "Lake Valley Drive Seppings Parade Cnr",
+      "store_count": 1,
+      "name": "Lakelands"
+    },
+    {
+      "url_path": "wa/madeley/wanneroo-road-168",
+      "state": "WA",
+      "suburb": "Madeley",
+      "address_slug": "wanneroo-road-168",
+      "address": "Wanneroo Road 168",
+      "store_count": 1,
+      "name": "Madeley"
+    },
+    {
+      "url_path": "wa/mandurah/aldgate-street-2",
+      "state": "WA",
+      "suburb": "Mandurah",
+      "address_slug": "aldgate-street-2",
+      "address": "Aldgate Street 2",
+      "store_count": 1,
+      "name": "Mandurah"
+    },
+    {
+      "url_path": "wa/midland/great-eastern-highway-274",
+      "state": "WA",
+      "suburb": "Midland",
+      "address_slug": "great-eastern-highway-274",
+      "address": "Great Eastern Highway 274",
+      "store_count": 1,
+      "name": "Midland"
+    },
+    {
+      "url_path": "wa/mirrabooka/yirrigan-drive-43",
+      "state": "WA",
+      "suburb": "Mirrabooka",
+      "address_slug": "yirrigan-drive-43",
+      "address": "Yirrigan Drive 43",
+      "store_count": 1,
+      "name": "Mirrabooka"
+    },
+    {
+      "url_path": "wa/morley/4-collier-rd",
+      "state": "WA",
+      "suburb": "Morley",
+      "address_slug": "4-collier-rd",
+      "address": "4 Collier Rd",
+      "store_count": 1,
+      "name": "Morley"
+    },
+    {
+      "url_path": "wa/mundaring/hartung-street-22-24",
+      "state": "WA",
+      "suburb": "Mundaring",
+      "address_slug": "hartung-street-22-24",
+      "address": "Hartung Street 22 24",
+      "store_count": 1,
+      "name": "Mundaring"
+    },
+    {
+      "url_path": "wa/northam/beamish-avenue-10",
+      "state": "WA",
+      "suburb": "Northam",
+      "address_slug": "beamish-avenue-10",
+      "address": "Beamish Avenue 10",
+      "store_count": 1,
+      "name": "Northam"
+    },
+    {
+      "url_path": "wa/rockingham/robinson-road-10",
+      "state": "WA",
+      "suburb": "Rockingham",
+      "address_slug": "robinson-road-10",
+      "address": "Robinson Road 10",
+      "store_count": 1,
+      "name": "Rockingham"
+    },
+    {
+      "url_path": "wa/secret-harbour/secret-harbour-blvd-420",
+      "state": "WA",
+      "suburb": "Secret-Harbour",
+      "address_slug": "secret-harbour-blvd-420",
+      "address": "Secret Harbour Blvd 420",
+      "store_count": 1,
+      "name": "Secret Harbour"
+    },
+    {
+      "url_path": "wa/south-fremantle/hampton-road-219-24",
+      "state": "WA",
+      "suburb": "South-Fremantle",
+      "address_slug": "hampton-road-219-24",
+      "address": "Hampton Road 219 24",
+      "store_count": 1,
+      "name": "South Fremantle"
+    },
+    {
+      "url_path": "wa/south-lake/north-lake-road-620",
+      "state": "WA",
+      "suburb": "South-Lake",
+      "address_slug": "north-lake-road-620",
+      "address": "North Lake Road 620",
+      "store_count": 1,
+      "name": "South Lake"
+    },
+    {
+      "url_path": "wa/southern-river/warton-road-346",
+      "state": "WA",
+      "suburb": "Southern-River",
+      "address_slug": "warton-road-346",
+      "address": "Warton Road 346",
+      "store_count": 1,
+      "name": "Southern River"
+    },
+    {
+      "url_path": "wa/spearwood/burgundy-crescent-lancaster-street-cnr",
+      "state": "WA",
+      "suburb": "Spearwood",
+      "address_slug": "burgundy-crescent-lancaster-street-cnr",
+      "address": "Burgundy Crescent Lancaster Street Cnr",
+      "store_count": 1,
+      "name": "Spearwood"
+    },
+    {
+      "url_path": "wa/success/beeliar-drive-816",
+      "state": "WA",
+      "suburb": "Success",
+      "address_slug": "beeliar-drive-816",
+      "address": "Beeliar Drive 816",
+      "store_count": 1,
+      "name": "Success"
+    },
+    {
+      "url_path": "wa/thornlie/murdoch-road-115",
+      "state": "WA",
+      "suburb": "Thornlie",
+      "address_slug": "murdoch-road-115",
+      "address": "Murdoch Road 115",
+      "store_count": 1,
+      "name": "Thornlie"
+    },
+    {
+      "url_path": "wa/waikiki/read-street-gnangara-drive-cnr",
+      "state": "WA",
+      "suburb": "Waikiki",
+      "address_slug": "read-street-gnangara-drive-cnr",
+      "address": "Read Street Gnangara Drive Cnr",
+      "store_count": 1,
+      "name": "Waikiki"
+    },
+    {
+      "url_path": "wa/wanneroo/cnr-conlan-avenue-wanneroo-road",
+      "state": "WA",
+      "suburb": "Wanneroo",
+      "address_slug": "cnr-conlan-avenue-wanneroo-road",
+      "address": "Cnr Conlan Avenue Wanneroo Road",
+      "store_count": 1,
+      "name": "Wanneroo"
+    },
+    {
+      "url_path": "wa/warwick/cnr-erindale-road-beach-road",
+      "state": "WA",
+      "suburb": "Warwick",
+      "address_slug": "cnr-erindale-road-beach-road",
+      "address": "Cnr Erindale Road Beach Road",
+      "store_count": 1,
+      "name": "Warwick"
+    },
+    {
+      "url_path": "wa/wattle-grove/hale-road-338",
+      "state": "WA",
+      "suburb": "Wattle-Grove",
+      "address_slug": "hale-road-338",
+      "address": "Hale Road 338",
+      "store_count": 1,
+      "name": "Wattle Grove"
+    },
+    {
+      "url_path": "wa/willetton/burrendah-blvd-45",
+      "state": "WA",
+      "suburb": "Willetton",
+      "address_slug": "burrendah-blvd-45",
+      "address": "Burrendah Blvd 45",
+      "store_count": 1,
+      "name": "Willetton"
+    },
+    {
+      "url_path": "wa/wonthella/north-west-coastal-highway-46",
+      "state": "WA",
+      "suburb": "Wonthella",
+      "address_slug": "north-west-coastal-highway-46",
+      "address": "North West Coastal Highway 46",
+      "store_count": 1,
+      "name": "Wonthella"
+    },
+    {
+      "url_path": "wa/yanchep/kakadu-road-2",
+      "state": "WA",
+      "suburb": "Yanchep",
+      "address_slug": "kakadu-road-2",
+      "address": "Kakadu Road 2",
+      "store_count": 1,
+      "name": "Yanchep"
+    },
+    {
+      "url_path": "wa/yokine/wanneroo-road-6",
+      "state": "WA",
+      "suburb": "Yokine",
+      "address_slug": "wanneroo-road-6",
+      "address": "Wanneroo Road 6",
+      "store_count": 1,
+      "name": "Yokine"
+    }
+  ]
+}
