@@ -1,6 +1,6 @@
 {
   "source": "ALDI Store Locator",
-  "page_title": "170 ALDI Locations",
+  "page_title": "171 ALDI Locations",
   "location": "Use my location",
   "total_stores": 153,
   "stores": [
@@ -910,7 +910,7 @@
       "suburb": "Mornington",
       "address_slug": "",
       "address": "",
-      "store_count": 2,
+      "store_count": 3,
       "name": "Mornington"
     },
     {
