@@ -194,11 +194,11 @@
       "name": "Hillarys"
     },
     {
-      "url_path": "wa/inglewood/beaufort-street-tenth-avenue-cnr",
+      "url_path": "wa/inglewood/cnr-beaufort-street-tenth-avenue",
       "state": "WA",
       "suburb": "Inglewood",
-      "address_slug": "beaufort-street-tenth-avenue-cnr",
-      "address": "Beaufort Street Tenth Avenue Cnr",
+      "address_slug": "cnr-beaufort-street-tenth-avenue",
+      "address": "Cnr Beaufort Street Tenth Avenue",
       "store_count": 1,
       "name": "Inglewood"
     },
@@ -311,11 +311,11 @@
       "name": "Morley"
     },
     {
-      "url_path": "wa/mundaring/hartung-street-22-24",
+      "url_path": "wa/mundaring/22-24-hartung-street",
       "state": "WA",
       "suburb": "Mundaring",
-      "address_slug": "hartung-street-22-24",
-      "address": "Hartung Street 22 24",
+      "address_slug": "22-24-hartung-street",
+      "address": "22 24 Hartung Street",
       "store_count": 1,
       "name": "Mundaring"
     },
@@ -329,11 +329,11 @@
       "name": "Northam"
     },
     {
-      "url_path": "wa/rockingham/robinson-road-10",
+      "url_path": "wa/rockingham/10-robinson-road",
       "state": "WA",
       "suburb": "Rockingham",
-      "address_slug": "robinson-road-10",
-      "address": "Robinson Road 10",
+      "address_slug": "10-robinson-road",
+      "address": "10 Robinson Road",
       "store_count": 1,
       "name": "Rockingham"
     },
