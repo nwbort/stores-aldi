@@ -932,11 +932,11 @@
       "name": "Lismore"
     },
     {
-      "url_path": "nsw/lithgow/valley-drive-2",
+      "url_path": "nsw/lithgow/2-valley-drive",
       "state": "NSW",
       "suburb": "Lithgow",
-      "address_slug": "valley-drive-2",
-      "address": "Valley Drive 2",
+      "address_slug": "2-valley-drive",
+      "address": "2 Valley Drive",
       "store_count": 1,
       "name": "Lithgow"
     },
