@@ -194,11 +194,11 @@
       "name": "Broadmeadows"
     },
     {
-      "url_path": "vic/brunswick/sydney-road-292-298",
+      "url_path": "vic/brunswick/292-298-sydney-road",
       "state": "VIC",
       "suburb": "Brunswick",
-      "address_slug": "sydney-road-292-298",
-      "address": "Sydney Road 292 298",
+      "address_slug": "292-298-sydney-road",
+      "address": "292 298 Sydney Road",
       "store_count": 1,
       "name": "Brunswick"
     },
