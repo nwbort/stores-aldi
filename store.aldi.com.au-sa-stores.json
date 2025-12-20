@@ -77,11 +77,11 @@
       "name": "Findon"
     },
     {
-      "url_path": "sa/gawler/5-7-tod-street",
+      "url_path": "sa/gawler/tod-street-5-7",
       "state": "SA",
       "suburb": "Gawler",
-      "address_slug": "5-7-tod-street",
-      "address": "5 7 Tod Street",
+      "address_slug": "tod-street-5-7",
+      "address": "Tod Street 5 7",
       "store_count": 1,
       "name": "Gawler"
     },
