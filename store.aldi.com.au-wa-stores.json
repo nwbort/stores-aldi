@@ -1,8 +1,8 @@
 {
   "source": "ALDI Store Locator",
-  "page_title": "52 ALDI Locations",
+  "page_title": "53 ALDI Locations",
   "location": "Use my location",
-  "total_stores": 52,
+  "total_stores": 53,
   "stores": [
     {
       "url_path": "wa/albany/albany-highway-70-80",
@@ -318,6 +318,15 @@
       "address": "22 24 Hartung Street",
       "store_count": 1,
       "name": "Mundaring"
+    },
+    {
+      "url_path": "wa/nedlands/90-stirling-highway",
+      "state": "WA",
+      "suburb": "Nedlands",
+      "address_slug": "90-stirling-highway",
+      "address": "90 Stirling Highway",
+      "store_count": 1,
+      "name": "Nedlands"
     },
     {
       "url_path": "wa/northam/beamish-avenue-10",
