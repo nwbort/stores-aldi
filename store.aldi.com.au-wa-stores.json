@@ -1,6 +1,6 @@
 {
   "source": "ALDI Store Locator",
-  "page_title": "53 ALDI Locations",
+  "page_title": "54 ALDI Locations",
   "location": "Use my location",
   "total_stores": 53,
   "stores": [
@@ -14,12 +14,12 @@
       "name": "Albany"
     },
     {
-      "url_path": "wa/armadale/jull-street-224",
+      "url_path": "wa/armadale",
       "state": "WA",
       "suburb": "Armadale",
-      "address_slug": "jull-street-224",
-      "address": "Jull Street 224",
-      "store_count": 1,
+      "address_slug": "",
+      "address": "",
+      "store_count": 2,
       "name": "Armadale"
     },
     {
