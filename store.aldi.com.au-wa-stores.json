@@ -41,11 +41,11 @@
       "name": "Baldivis"
     },
     {
-      "url_path": "wa/banksia-grove/jewel-way-3",
+      "url_path": "wa/banksia-grove/3-jewel-way",
       "state": "WA",
       "suburb": "Banksia-Grove",
-      "address_slug": "jewel-way-3",
-      "address": "Jewel Way 3",
+      "address_slug": "3-jewel-way",
+      "address": "3 Jewel Way",
       "store_count": 1,
       "name": "Banksia Grove"
     },
@@ -275,11 +275,11 @@
       "name": "Madeley"
     },
     {
-      "url_path": "wa/mandurah/aldgate-street-2",
+      "url_path": "wa/mandurah/2-aldgate-street",
       "state": "WA",
       "suburb": "Mandurah",
-      "address_slug": "aldgate-street-2",
-      "address": "Aldgate Street 2",
+      "address_slug": "2-aldgate-street",
+      "address": "2 Aldgate Street",
       "store_count": 1,
       "name": "Mandurah"
     },

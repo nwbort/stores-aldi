@@ -671,11 +671,11 @@
       "name": "Mountain Creek"
     },
     {
-      "url_path": "qld/mudgeeraba/robert-st-3",
+      "url_path": "qld/mudgeeraba/robert-street-3",
       "state": "QLD",
       "suburb": "Mudgeeraba",
-      "address_slug": "robert-st-3",
-      "address": "Robert St 3",
+      "address_slug": "robert-street-3",
+      "address": "Robert Street 3",
       "store_count": 1,
       "name": "Mudgeeraba"
     },
@@ -788,11 +788,11 @@
       "name": "Redbank"
     },
     {
-      "url_path": "qld/redbank-plains/redbank-plain-road-389",
+      "url_path": "qld/redbank-plains/389-redbank-plains-road",
       "state": "QLD",
       "suburb": "Redbank-Plains",
-      "address_slug": "redbank-plain-road-389",
-      "address": "Redbank Plain Road 389",
+      "address_slug": "389-redbank-plains-road",
+      "address": "389 Redbank Plains Road",
       "store_count": 1,
       "name": "Redbank Plains"
     },
