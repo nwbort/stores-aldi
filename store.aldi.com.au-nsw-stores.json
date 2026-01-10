@@ -1238,11 +1238,11 @@
       "name": "North Rocks"
     },
     {
-      "url_path": "nsw/north-rothbury/12-well-street",
+      "url_path": "nsw/north-rothbury/well-street-12",
       "state": "NSW",
       "suburb": "North-Rothbury",
-      "address_slug": "12-well-street",
-      "address": "12 Well Street",
+      "address_slug": "well-street-12",
+      "address": "Well Street 12",
       "store_count": 1,
       "name": "North Rothbury"
     },
