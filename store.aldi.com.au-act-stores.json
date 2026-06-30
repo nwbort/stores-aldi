@@ -1,7 +1,294 @@
 {
   "source": "ALDI Store Locator",
-  "page_title": null,
-  "location": null,
-  "total_stores": 0,
-  "stores": []
+  "page_title": "ACT",
+  "location": "ACT",
+  "total_stores": 13,
+  "stores": [
+    {
+      "id": "G571",
+      "name": "ALDI",
+      "address": "12 Pioneer Street",
+      "street": "12 Pioneer Street",
+      "suburb": "Amaroo",
+      "state": "ACT",
+      "postcode": "2914",
+      "country": "AU",
+      "latitude": -35.1651648,
+      "longitude": 149.1325023,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
+      "id": "G502",
+      "name": "ALDI",
+      "address": "20 Benjamin Way",
+      "street": "20 Benjamin Way",
+      "suburb": "Belconnen",
+      "state": "ACT",
+      "postcode": "2617",
+      "country": "AU",
+      "latitude": -35.23885,
+      "longitude": 149.06619,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-21:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
+      "id": "G483",
+      "name": "ALDI",
+      "address": "148 Bunda Street",
+      "street": "148 Bunda Street",
+      "suburb": "Canberra",
+      "state": "ACT",
+      "postcode": "2601",
+      "country": "AU",
+      "latitude": -35.27906,
+      "longitude": 149.13354,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-21:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
+      "id": "G526",
+      "name": "ALDI",
+      "address": "15 Kingsland Parade",
+      "street": "15 Kingsland Parade",
+      "suburb": "Casey",
+      "state": "ACT",
+      "postcode": "2913",
+      "country": "AU",
+      "latitude": -35.1748381,
+      "longitude": 149.0953435,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-21:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
+      "id": "G508",
+      "name": "ALDI",
+      "address": "36 Benham Street",
+      "street": "36 Benham Street",
+      "suburb": "Chisholm",
+      "state": "ACT",
+      "postcode": "2905",
+      "country": "AU",
+      "latitude": -35.41338,
+      "longitude": 149.12774,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
+      "id": "G473",
+      "name": "ALDI",
+      "address": "9 Sidney Nolan Street",
+      "street": "9 Sidney Nolan Street",
+      "suburb": "Conder",
+      "state": "ACT",
+      "postcode": "2906",
+      "country": "AU",
+      "latitude": -35.45715,
+      "longitude": 149.09283,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
+      "id": "G662",
+      "name": "ALDI",
+      "address": "33 Hibberson Street",
+      "street": "33 Hibberson Street",
+      "suburb": "Gungahlin",
+      "state": "ACT",
+      "postcode": "2912",
+      "country": "AU",
+      "latitude": -35.18454397704,
+      "longitude": 149.13359649393,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-21:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
+      "id": "G466",
+      "name": "ALDI",
+      "address": "50 - 60 Hardwick Crescent",
+      "street": "50 - 60 Hardwick Crescent",
+      "suburb": "Holt",
+      "state": "ACT",
+      "postcode": "2615",
+      "country": "AU",
+      "latitude": -35.2212764,
+      "longitude": 149.019099,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
+      "id": "G482",
+      "name": "ALDI",
+      "address": "1 Bowman Street",
+      "street": "1 Bowman Street",
+      "suburb": "Macquarie",
+      "state": "ACT",
+      "postcode": "2614",
+      "country": "AU",
+      "latitude": -35.25249,
+      "longitude": 149.07152,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
+      "id": "G528",
+      "name": "ALDI",
+      "address": "18 - 26 Spitfire Avenue",
+      "street": "18 - 26 Spitfire Avenue",
+      "suburb": "Majura Park",
+      "state": "ACT",
+      "postcode": "2609",
+      "country": "AU",
+      "latitude": -35.299315,
+      "longitude": 149.190925,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
+      "id": "G472",
+      "name": "ALDI",
+      "address": "150-180 Soward Way",
+      "street": "150-180 Soward Way",
+      "suburb": "Tuggeranong",
+      "state": "ACT",
+      "postcode": "2900",
+      "country": "AU",
+      "latitude": -35.41794,
+      "longitude": 149.06867,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
+      "id": "G488",
+      "name": "ALDI",
+      "address": "26 Brierly Street",
+      "street": "26 Brierly Street",
+      "suburb": "Weston",
+      "state": "ACT",
+      "postcode": "2611",
+      "country": "AU",
+      "latitude": -35.34021,
+      "longitude": 149.05255,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-21:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
+      "id": "G656",
+      "name": "ALDI",
+      "address": "4 Gornall Street",
+      "street": "4 Gornall Street",
+      "suburb": "Wright",
+      "state": "ACT",
+      "postcode": "2611",
+      "country": "AU",
+      "latitude": -35.32145523965,
+      "longitude": 149.03715174085,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    }
+  ]
 }
