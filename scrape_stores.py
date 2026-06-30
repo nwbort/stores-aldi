@@ -81,6 +81,37 @@ def fetch_locations():
     return normalised
 
 
+def state_from_postcode(postcode):
+    """Map an Australian postcode to its state/territory code.
+
+    Some Uberall records (notably the ACT stores) have a blank or non-standard
+    province, so we fall back to the postcode, which is authoritative.
+    """
+    try:
+        pc = int(str(postcode).strip())
+    except (TypeError, ValueError):
+        return None
+    # Ranges per Australia Post. ACT is checked before NSW because its postcodes
+    # sit inside the NSW number space.
+    if 200 <= pc <= 299 or 2600 <= pc <= 2618 or 2900 <= pc <= 2920:
+        return "ACT"
+    if 1000 <= pc <= 2599 or 2619 <= pc <= 2899 or 2921 <= pc <= 2999:
+        return "NSW"
+    if 800 <= pc <= 999:
+        return "NT"
+    if 3000 <= pc <= 3999 or 8000 <= pc <= 8999:
+        return "VIC"
+    if 4000 <= pc <= 4999 or 9000 <= pc <= 9999:
+        return "QLD"
+    if 5000 <= pc <= 5999:
+        return "SA"
+    if 6000 <= pc <= 6999:
+        return "WA"
+    if 7000 <= pc <= 7999:
+        return "TAS"
+    return None
+
+
 def canonical_state(loc):
     """Best-effort 2-3 letter state code for a location."""
     for key in ("province", "state", "region", "regionIsoCode", "regionName"):
@@ -89,7 +120,8 @@ def canonical_state(loc):
             code = STATE_ALIASES.get(str(value).strip().lower())
             if code:
                 return code
-    return None
+    # Fall back to the postcode when the province is missing/unrecognised.
+    return state_from_postcode(loc.get("zip") or loc.get("postcode"))
 
 
 def parse_opening_hours(raw):

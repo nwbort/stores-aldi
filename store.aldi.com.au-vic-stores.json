@@ -2,7 +2,7 @@
   "source": "ALDI Store Locator",
   "page_title": "VIC",
   "location": "VIC",
-  "total_stores": 170,
+  "total_stores": 171,
   "stores": [
     {
       "id": "G289",
@@ -1058,6 +1058,28 @@
         "Fr: 08:30-20:00",
         "Sa: 08:30-20:00",
         "Su: 08:30-20:00"
+      ]
+    },
+    {
+      "id": "G286",
+      "name": "ALDI",
+      "address": "Neale Road, Station Road",
+      "street": "Neale Road",
+      "suburb": "Deer Park",
+      "state": "VIC",
+      "postcode": "3023",
+      "country": "AU",
+      "latitude": -37.7505,
+      "longitude": 144.77444,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-19:00",
+        "Su: 08:30-19:00"
       ]
     },
     {
