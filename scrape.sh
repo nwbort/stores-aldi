@@ -1,8 +1,9 @@
 #!/bin/bash
+set -e
+
+# Keep a copy of the store locator landing page for reference / debugging.
 ./download.sh 'https://store.aldi.com.au/'
-./download.sh 'https://store.aldi.com.au/act' --extract-stores
-./download.sh 'https://store.aldi.com.au/nsw' --extract-stores
-./download.sh 'https://store.aldi.com.au/qld' --extract-stores
-./download.sh 'https://store.aldi.com.au/sa' --extract-stores
-./download.sh 'https://store.aldi.com.au/vic' --extract-stores
-./download.sh 'https://store.aldi.com.au/wa' --extract-stores
+
+# ALDI AU's store locator is a Nuxt SPA backed by the Uberall storefinder API,
+# so the store list is fetched from that API rather than parsed out of HTML.
+python3 scrape_stores.py
