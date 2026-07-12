@@ -9267,6 +9267,28 @@
       ]
     },
     {
+      "id": "G676",
+      "name": "ALDI",
+      "address": "195 Tuckers Road",
+      "street": "195 Tuckers Road",
+      "suburb": "Clyde North",
+      "state": "VIC",
+      "postcode": "3978",
+      "country": "AU",
+      "latitude": -38.1185,
+      "longitude": 145.34616,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
       "id": "G380",
       "name": "ALDI",
       "address": "Cnr Berwick-Cranbourne Road, H",
@@ -11147,28 +11169,6 @@
       "country": "AU",
       "latitude": -37.752182,
       "longitude": 145.002884,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-20:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-20:00",
-        "Su: 08:30-20:00"
-      ]
-    },
-    {
-      "id": "G676",
-      "name": "ALDI",
-      "address": "2 Kinross Parade",
-      "street": "2 Kinross Parade",
-      "suburb": "Ramlegh Springs",
-      "state": "VIC",
-      "postcode": "3978",
-      "country": "AU",
-      "latitude": -38.1185,
-      "longitude": 145.34616,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
