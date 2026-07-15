@@ -293,8 +293,8 @@
     {
       "id": "G017",
       "name": "ALDI",
-      "address": "The Golden Way, Helicon Drive",
-      "street": "The Golden Way",
+      "address": "Cnr Helicon Drive, The Golden Way, Helicon Drive",
+      "street": "Cnr Helicon Drive, The Golden Way",
       "suburb": "Golden Grove",
       "state": "SA",
       "postcode": "5125",
@@ -667,9 +667,9 @@
     {
       "id": "G007",
       "name": "ALDI",
-      "address": "Goldsmith Drive",
-      "street": "Goldsmith Drive",
-      "suburb": "Noarlunga Centre",
+      "address": "Cnr Beach Road, Goldsmith Drive",
+      "street": "Cnr Beach Road, Goldsmith Drive",
+      "suburb": "Noarlunga",
       "state": "SA",
       "postcode": "5168",
       "country": "AU",

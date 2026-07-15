@@ -95,8 +95,8 @@
     {
       "id": "G386",
       "name": "ALDI",
-      "address": "Cnr Holbeche Road, Walters Roa, Holbeche Road",
-      "street": "Cnr Holbeche Road, Walters Roa",
+      "address": "Cnr Holbeche Road, Walters Road, Holbeche Road",
+      "street": "Cnr Holbeche Road, Walters Road",
       "suburb": "Arndell Park",
       "state": "NSW",
       "postcode": "2148",
@@ -2251,8 +2251,8 @@
     {
       "id": "G477",
       "name": "ALDI",
-      "address": "Shop 21A Marion Street, Flood",
-      "street": "Shop 21A Marion Street, Flood",
+      "address": "Shop 21A Marion Street, Flood Street",
+      "street": "Shop 21A Marion Street, Flood Street",
       "suburb": "Leichhardt",
       "state": "NSW",
       "postcode": "2040",
@@ -2911,8 +2911,8 @@
     {
       "id": "G533",
       "name": "ALDI",
-      "address": "Cnr Nyarra Road, Pacific Highw",
-      "street": "Cnr Nyarra Road, Pacific Highw",
+      "address": "Cnr Nyarra Road, Pacific Highway",
+      "street": "Cnr Nyarra Road, Pacific Highway",
       "suburb": "Mount Kuring-gai",
       "state": "NSW",
       "postcode": "2080",
@@ -3657,6 +3657,28 @@
       ]
     },
     {
+      "id": "G398",
+      "name": "ALDI",
+      "address": "410/422 Great Western Highway",
+      "street": "410/422 Great Western Highway",
+      "suburb": "Saint Marys",
+      "state": "NSW",
+      "postcode": "2760",
+      "country": "AU",
+      "latitude": -33.76973,
+      "longitude": 150.77037,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-21:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
       "id": "G591",
       "name": "ALDI",
       "address": "3 Central Ave",
@@ -3739,28 +3761,6 @@
         "Tu: 08:30-20:00",
         "We: 08:30-20:00",
         "Th: 08:30-20:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-20:00",
-        "Su: 08:30-20:00"
-      ]
-    },
-    {
-      "id": "G398",
-      "name": "ALDI",
-      "address": "410-422 Great Western Highway",
-      "street": "410-422 Great Western Highway",
-      "suburb": "St Marys",
-      "state": "NSW",
-      "postcode": "2760",
-      "country": "AU",
-      "latitude": -33.76973,
-      "longitude": 150.77037,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-21:00",
         "Fr: 08:30-20:00",
         "Sa: 08:30-20:00",
         "Su: 08:30-20:00"
@@ -4253,8 +4253,8 @@
     {
       "id": "G537",
       "name": "ALDI",
-      "address": "331 - 339 Great Western Highwa",
-      "street": "331 - 339 Great Western Highwa",
+      "address": "Unit 331/339 Great Western Highway",
+      "street": "Unit 331/339 Great Western Highway",
       "suburb": "Wentworthville",
       "state": "NSW",
       "postcode": "2145",
