@@ -570,7 +570,7 @@
         "Mo: 08:30-20:00",
         "Tu: 08:30-20:00",
         "We: 08:30-20:00",
-        "Th: 08:30-21:00",
+        "Th: 08:30-20:00",
         "Fr: 08:30-20:00",
         "Sa: 08:00-19:00",
         "Su: 08:30-19:00"
@@ -667,8 +667,8 @@
     {
       "id": "G007",
       "name": "ALDI",
-      "address": "Cnr Beach Road, Goldsmith Drive",
-      "street": "Cnr Beach Road, Goldsmith Drive",
+      "address": "Goldsmith Drive, Cnr Beach Road",
+      "street": "Goldsmith Drive",
       "suburb": "Noarlunga",
       "state": "SA",
       "postcode": "5168",
