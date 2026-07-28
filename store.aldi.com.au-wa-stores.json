@@ -211,8 +211,8 @@
       "state": "WA",
       "postcode": "6280",
       "country": "AU",
-      "latitude": -33.655508,
-      "longitude": 115.3409865,
+      "latitude": -33.65514,
+      "longitude": 115.34111,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
@@ -475,7 +475,7 @@
       "state": "WA",
       "postcode": "6025",
       "country": "AU",
-      "latitude": -31.79733346,
+      "latitude": -31.7973334561,
       "longitude": 115.74803,
       "phone": "+61 132534",
       "opening_hours": [
@@ -951,8 +951,8 @@
       "state": "WA",
       "postcode": "6163",
       "country": "AU",
-      "latitude": -32.09612723,
-      "longitude": 115.78461466,
+      "latitude": -32.09613,
+      "longitude": 115.78461,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
@@ -1039,8 +1039,8 @@
       "state": "WA",
       "postcode": "6065",
       "country": "AU",
-      "latitude": -31.75198194,
-      "longitude": 115.80589768,
+      "latitude": -31.75198,
+      "longitude": 115.8059,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
