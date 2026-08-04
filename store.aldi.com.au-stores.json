@@ -9077,8 +9077,8 @@
       "state": "VIC",
       "postcode": "3064",
       "country": "AU",
-      "latitude": -37.8846361,
-      "longitude": 145.0584202,
+      "latitude": -37.884348,
+      "longitude": 145.058634,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
@@ -13235,8 +13235,8 @@
       "state": "WA",
       "postcode": "6065",
       "country": "AU",
-      "latitude": -31.75198194,
-      "longitude": 115.80589768,
+      "latitude": -31.75198,
+      "longitude": 115.8059,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
