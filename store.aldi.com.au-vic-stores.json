@@ -2,7 +2,7 @@
   "source": "ALDI Store Locator",
   "page_title": "VIC",
   "location": "VIC",
-  "total_stores": 171,
+  "total_stores": 172,
   "stores": [
     {
       "id": "G289",
@@ -1851,6 +1851,20 @@
         "Sa: 08:30-20:00",
         "Su: 08:30-20:00"
       ]
+    },
+    {
+      "id": "G680",
+      "name": "ALDI",
+      "address": "317 Cheltenham Road",
+      "street": "317 Cheltenham Road",
+      "suburb": "Keysborough",
+      "state": "VIC",
+      "postcode": "3173",
+      "country": "AU",
+      "latitude": -37.9941077,
+      "longitude": 145.1751122,
+      "phone": "+61 132534",
+      "opening_hours": []
     },
     {
       "id": "G379",

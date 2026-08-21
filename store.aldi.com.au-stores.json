@@ -2,7 +2,7 @@
   "source": "ALDI Store Locator",
   "page_title": "ALDI Store Locator",
   "location": "Australia",
-  "total_stores": 608,
+  "total_stores": 609,
   "stores": [
     {
       "id": "G571",
@@ -2205,28 +2205,6 @@
       ]
     },
     {
-      "id": "G569",
-      "name": "ALDI",
-      "address": "525 Cowpasture Road",
-      "street": "525 Cowpasture Road",
-      "suburb": "Hoxton Park",
-      "state": "NSW",
-      "postcode": "2171",
-      "country": "AU",
-      "latitude": -33.91907298,
-      "longitude": 150.8545815,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-20:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-20:00",
-        "Su: 08:30-20:00"
-      ]
-    },
-    {
       "id": "G490",
       "name": "ALDI",
       "address": "A1 Cross Street, Park Road",
@@ -2551,6 +2529,28 @@
         "Tu: 08:30-20:00",
         "We: 08:30-20:00",
         "Th: 08:30-21:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
+      "id": "G569",
+      "name": "ALDI",
+      "address": "525 Cowpasture Road",
+      "street": "525 Cowpasture Road",
+      "suburb": "Len Waters Estate",
+      "state": "NSW",
+      "postcode": "2171",
+      "country": "AU",
+      "latitude": -33.91855647924,
+      "longitude": 150.85481181237,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
         "Fr: 08:30-20:00",
         "Sa: 08:30-20:00",
         "Su: 08:30-20:00"
@@ -10299,6 +10299,20 @@
         "Sa: 08:30-20:00",
         "Su: 08:30-20:00"
       ]
+    },
+    {
+      "id": "G680",
+      "name": "ALDI",
+      "address": "317 Cheltenham Road",
+      "street": "317 Cheltenham Road",
+      "suburb": "Keysborough",
+      "state": "VIC",
+      "postcode": "3173",
+      "country": "AU",
+      "latitude": -37.9941077,
+      "longitude": 145.1751122,
+      "phone": "+61 132534",
+      "opening_hours": []
     },
     {
       "id": "G379",
