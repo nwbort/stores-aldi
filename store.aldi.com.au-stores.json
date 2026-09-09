@@ -2,7 +2,7 @@
   "source": "ALDI Store Locator",
   "page_title": "ALDI Store Locator",
   "location": "Australia",
-  "total_stores": 609,
+  "total_stores": 610,
   "stores": [
     {
       "id": "G571",
@@ -2537,7 +2537,7 @@
     {
       "id": "G569",
       "name": "ALDI",
-      "address": "525 Cowpasture Road",
+      "address": "525 Cowpasture Road, ALDI Hoxton Park",
       "street": "525 Cowpasture Road",
       "suburb": "Len Waters Estate",
       "state": "NSW",
@@ -12600,6 +12600,28 @@
         "Fr: 08:30-20:00",
         "Sa: 08:30-17:00",
         "Su: 11:00-17:00"
+      ]
+    },
+    {
+      "id": "G741",
+      "name": "ALDI",
+      "address": "8 Portobello Road",
+      "street": "8 Portobello Road",
+      "suburb": "Dalyellup",
+      "state": "WA",
+      "postcode": "6230",
+      "country": "AU",
+      "latitude": -33.3979225,
+      "longitude": 115.6338513,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-21:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-19:00",
+        "Su: 08:30-19:00"
       ]
     },
     {

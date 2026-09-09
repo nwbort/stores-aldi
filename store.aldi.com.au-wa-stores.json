@@ -2,7 +2,7 @@
   "source": "ALDI Store Locator",
   "page_title": "WA",
   "location": "WA",
-  "total_stores": 53,
+  "total_stores": 54,
   "stores": [
     {
       "id": "G586",
@@ -376,6 +376,28 @@
         "Fr: 08:30-20:00",
         "Sa: 08:30-17:00",
         "Su: 11:00-17:00"
+      ]
+    },
+    {
+      "id": "G741",
+      "name": "ALDI",
+      "address": "8 Portobello Road",
+      "street": "8 Portobello Road",
+      "suburb": "Dalyellup",
+      "state": "WA",
+      "postcode": "6230",
+      "country": "AU",
+      "latitude": -33.3979225,
+      "longitude": 115.6338513,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-21:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-19:00",
+        "Su: 08:30-19:00"
       ]
     },
     {
