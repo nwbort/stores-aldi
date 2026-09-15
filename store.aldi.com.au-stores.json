@@ -9379,14 +9379,14 @@
     {
       "id": "G359",
       "name": "ALDI",
-      "address": "68 - 80 Thompson Avenue",
-      "street": "68 - 80 Thompson Avenue",
+      "address": "68/80 Thompson Avenue",
+      "street": "68/80 Thompson Avenue",
       "suburb": "Cowes",
       "state": "VIC",
       "postcode": "3922",
       "country": "AU",
-      "latitude": -38.450246,
-      "longitude": 145.238911,
+      "latitude": -38.450597,
+      "longitude": 145.238512,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
