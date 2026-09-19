@@ -2,7 +2,7 @@
   "source": "ALDI Store Locator",
   "page_title": "ALDI Store Locator",
   "location": "Australia",
-  "total_stores": 610,
+  "total_stores": 611,
   "stores": [
     {
       "id": "G571",
@@ -11433,6 +11433,28 @@
       "country": "AU",
       "latitude": -36.38345,
       "longitude": 145.39847,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
+      "id": "G621",
+      "name": "ALDI",
+      "address": "50 Cherry Flat Road",
+      "street": "50 Cherry Flat Road",
+      "suburb": "Smythes Creek",
+      "state": "VIC",
+      "postcode": "3351",
+      "country": "AU",
+      "latitude": -37.59422,
+      "longitude": 143.80551,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
