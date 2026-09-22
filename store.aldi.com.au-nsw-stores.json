@@ -101,8 +101,8 @@
       "state": "NSW",
       "postcode": "2148",
       "country": "AU",
-      "latitude": -33.78961,
-      "longitude": 150.89029,
+      "latitude": -33.78913266,
+      "longitude": 150.88996082,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
@@ -2257,8 +2257,8 @@
       "state": "NSW",
       "postcode": "2171",
       "country": "AU",
-      "latitude": -33.91855647924,
-      "longitude": 150.85481181237,
+      "latitude": -33.91855648,
+      "longitude": 150.85481181,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
@@ -3665,8 +3665,8 @@
       "state": "NSW",
       "postcode": "2760",
       "country": "AU",
-      "latitude": -33.76973,
-      "longitude": 150.77037,
+      "latitude": -33.76992835,
+      "longitude": 150.77143824,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
