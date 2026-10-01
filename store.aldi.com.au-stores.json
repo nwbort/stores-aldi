@@ -2,7 +2,7 @@
   "source": "ALDI Store Locator",
   "page_title": "ALDI Store Locator",
   "location": "Australia",
-  "total_stores": 611,
+  "total_stores": 613,
   "stores": [
     {
       "id": "G571",
@@ -387,8 +387,8 @@
       "state": "NSW",
       "postcode": "2148",
       "country": "AU",
-      "latitude": -33.78961,
-      "longitude": 150.89029,
+      "latitude": -33.78913266,
+      "longitude": 150.88996082,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
@@ -3085,6 +3085,28 @@
       ]
     },
     {
+      "id": "G764",
+      "name": "ALDI",
+      "address": "84D Roberts Avenue",
+      "street": "84D Roberts Avenue",
+      "suburb": "Mortdale",
+      "state": "NSW",
+      "postcode": "2223",
+      "country": "AU",
+      "latitude": -33.9685403,
+      "longitude": 151.0650438,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-21:00",
+        "Tu: 08:30-21:00",
+        "We: 08:30-21:00",
+        "Th: 08:30-21:00",
+        "Fr: 08:30-21:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
       "id": "G558",
       "name": "ALDI",
       "address": "3 / 1 Brady Street",
@@ -3651,6 +3673,28 @@
         "Tu: 08:30-20:00",
         "We: 08:30-20:00",
         "Th: 08:30-21:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
+      "id": "G599",
+      "name": "ALDI",
+      "address": "20 Short Street",
+      "street": "20 Short Street",
+      "suburb": "Port Macquarie",
+      "state": "NSW",
+      "postcode": "2444",
+      "country": "AU",
+      "latitude": -31.4321312,
+      "longitude": 152.9073762,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
         "Fr: 08:30-20:00",
         "Sa: 08:30-20:00",
         "Su: 08:30-20:00"
@@ -9077,8 +9121,8 @@
       "state": "VIC",
       "postcode": "3064",
       "country": "AU",
-      "latitude": -37.884348,
-      "longitude": 145.058634,
+      "latitude": -37.8846361,
+      "longitude": 145.0584202,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
@@ -9253,8 +9297,8 @@
       "state": "VIC",
       "postcode": "3116",
       "country": "AU",
-      "latitude": -37.75638530134,
-      "longitude": 145.31193745071,
+      "latitude": -37.7563853,
+      "longitude": 145.31193745,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
@@ -10309,8 +10353,8 @@
       "state": "VIC",
       "postcode": "3173",
       "country": "AU",
-      "latitude": -37.99208,
-      "longitude": 145.17322,
+      "latitude": -37.9941077,
+      "longitude": 145.1751122,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
@@ -10947,8 +10991,8 @@
       "state": "VIC",
       "postcode": "3805",
       "country": "AU",
-      "latitude": -38.06772482876,
-      "longitude": 145.30050648024,
+      "latitude": -38.06772483,
+      "longitude": 145.30050648,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
@@ -11475,8 +11519,8 @@
       "state": "VIC",
       "postcode": "3912",
       "country": "AU",
-      "latitude": -38.22496,
-      "longitude": 145.17698,
+      "latitude": -38.2249733,
+      "longitude": 145.1775545,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
@@ -12157,8 +12201,8 @@
       "state": "VIC",
       "postcode": "3689",
       "country": "AU",
-      "latitude": -36.13845007689,
-      "longitude": 146.89513629617,
+      "latitude": -36.13845008,
+      "longitude": 146.8951363,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
@@ -12201,8 +12245,8 @@
       "state": "VIC",
       "postcode": "3995",
       "country": "AU",
-      "latitude": -38.60472,
-      "longitude": 145.59305,
+      "latitude": -38.60444751,
+      "longitude": 145.59269327,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
@@ -13213,8 +13257,8 @@
       "state": "WA",
       "postcode": "6163",
       "country": "AU",
-      "latitude": -32.09613,
-      "longitude": 115.78461,
+      "latitude": -32.09612723,
+      "longitude": 115.78461466,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",

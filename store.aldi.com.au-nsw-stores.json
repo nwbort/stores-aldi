@@ -2,7 +2,7 @@
   "source": "ALDI Store Locator",
   "page_title": "NSW",
   "location": "NSW",
-  "total_stores": 204,
+  "total_stores": 206,
   "stores": [
     {
       "id": "G501",
@@ -101,8 +101,8 @@
       "state": "NSW",
       "postcode": "2148",
       "country": "AU",
-      "latitude": -33.78961,
-      "longitude": 150.89029,
+      "latitude": -33.78913266,
+      "longitude": 150.88996082,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
@@ -2799,6 +2799,28 @@
       ]
     },
     {
+      "id": "G764",
+      "name": "ALDI",
+      "address": "84D Roberts Avenue",
+      "street": "84D Roberts Avenue",
+      "suburb": "Mortdale",
+      "state": "NSW",
+      "postcode": "2223",
+      "country": "AU",
+      "latitude": -33.9685403,
+      "longitude": 151.0650438,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-21:00",
+        "Tu: 08:30-21:00",
+        "We: 08:30-21:00",
+        "Th: 08:30-21:00",
+        "Fr: 08:30-21:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
       "id": "G558",
       "name": "ALDI",
       "address": "3 / 1 Brady Street",
@@ -3365,6 +3387,28 @@
         "Tu: 08:30-20:00",
         "We: 08:30-20:00",
         "Th: 08:30-21:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
+      "id": "G599",
+      "name": "ALDI",
+      "address": "20 Short Street",
+      "street": "20 Short Street",
+      "suburb": "Port Macquarie",
+      "state": "NSW",
+      "postcode": "2444",
+      "country": "AU",
+      "latitude": -31.4321312,
+      "longitude": 152.9073762,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
         "Fr: 08:30-20:00",
         "Sa: 08:30-20:00",
         "Su: 08:30-20:00"
