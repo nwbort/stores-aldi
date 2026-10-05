@@ -2,7 +2,7 @@
   "source": "ALDI Store Locator",
   "page_title": "ALDI Store Locator",
   "location": "Australia",
-  "total_stores": 613,
+  "total_stores": 591,
   "stores": [
     {
       "id": "G571",
@@ -376,28 +376,6 @@
         "Fr: 08:30-20:00",
         "Sa: 08:00-20:00",
         "Su: 09:00-19:00"
-      ]
-    },
-    {
-      "id": "G386",
-      "name": "ALDI",
-      "address": "Walters Road, Cnr Holbeche Road",
-      "street": "Walters Road",
-      "suburb": "Arndell Park",
-      "state": "NSW",
-      "postcode": "2148",
-      "country": "AU",
-      "latitude": -33.78913266,
-      "longitude": 150.88996082,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-21:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-20:00",
-        "Su: 08:30-20:00"
       ]
     },
     {
@@ -2535,28 +2513,6 @@
       ]
     },
     {
-      "id": "G569",
-      "name": "ALDI",
-      "address": "525 Cowpasture Road, ALDI Hoxton Park",
-      "street": "525 Cowpasture Road",
-      "suburb": "Len Waters Estate",
-      "state": "NSW",
-      "postcode": "2171",
-      "country": "AU",
-      "latitude": -33.91855648,
-      "longitude": 150.85481181,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-20:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-20:00",
-        "Su: 08:30-20:00"
-      ]
-    },
-    {
       "id": "G566",
       "name": "ALDI",
       "address": "5 Emerald Hills Boulevarde",
@@ -3982,28 +3938,6 @@
         "We: 08:30-21:00",
         "Th: 08:30-21:00",
         "Fr: 08:30-21:00",
-        "Sa: 08:30-20:00",
-        "Su: 08:30-20:00"
-      ]
-    },
-    {
-      "id": "G398",
-      "name": "ALDI",
-      "address": "410-422 Great Western Highway",
-      "street": "410-422 Great Western Highway",
-      "suburb": "Saint Marys",
-      "state": "NSW",
-      "postcode": "2760",
-      "country": "AU",
-      "latitude": -33.76992835,
-      "longitude": 150.77143824,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-21:00",
-        "Fr: 08:30-20:00",
         "Sa: 08:30-20:00",
         "Su: 08:30-20:00"
       ]
@@ -8641,11 +8575,11 @@
       "longitude": 142.93272519604,
       "phone": "+61 132534",
       "opening_hours": [
-        "Mo: 08:30-19:00",
-        "Tu: 08:30-19:00",
-        "We: 08:30-19:00",
-        "Th: 08:30-19:00",
-        "Fr: 08:30-19:00",
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
         "Sa: 08:30-19:00",
         "Su: 08:30-19:00"
       ]
@@ -9113,28 +9047,6 @@
       ]
     },
     {
-      "id": "G315",
-      "name": "ALDI",
-      "address": "2 Koornang Road",
-      "street": "2 Koornang Road",
-      "suburb": "Carnegie",
-      "state": "VIC",
-      "postcode": "3064",
-      "country": "AU",
-      "latitude": -37.8846361,
-      "longitude": 145.0584202,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-20:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-20:00",
-        "Su: 08:30-20:00"
-      ]
-    },
-    {
       "id": "G281",
       "name": "ALDI",
       "address": "29 - 35 Lake Street",
@@ -9289,28 +9201,6 @@
       ]
     },
     {
-      "id": "G303",
-      "name": "ALDI",
-      "address": "Maroondah Hwy, Cnr Kimberly Drive, El Centro St",
-      "street": "Maroondah Hwy",
-      "suburb": "Chirnside Park",
-      "state": "VIC",
-      "postcode": "3116",
-      "country": "AU",
-      "latitude": -37.7563853,
-      "longitude": 145.31193745,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-20:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-20:00",
-        "Su: 08:30-20:00"
-      ]
-    },
-    {
       "id": "G676",
       "name": "ALDI",
       "address": "195 Tuckers Road",
@@ -9321,28 +9211,6 @@
       "country": "AU",
       "latitude": -38.1185,
       "longitude": 145.34616,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-20:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-20:00",
-        "Su: 08:30-20:00"
-      ]
-    },
-    {
-      "id": "G380",
-      "name": "ALDI",
-      "address": "Hamersley Drive, Cnr Berwick-Cranbourne Road",
-      "street": "Hamersley Drive",
-      "suburb": "Clyde North",
-      "state": "VIC",
-      "postcode": "3978",
-      "country": "AU",
-      "latitude": -38.0941272,
-      "longitude": 145.3334629,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
@@ -9394,8 +9262,8 @@
         "We: 08:30-20:00",
         "Th: 08:30-20:00",
         "Fr: 08:30-20:00",
-        "Sa: 08:30-19:00",
-        "Su: 08:30-19:00"
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
       ]
     },
     {
@@ -9553,28 +9421,6 @@
       ]
     },
     {
-      "id": "G355",
-      "name": "ALDI",
-      "address": "Walker Street, Cnr McCrae Street",
-      "street": "Walker Street",
-      "suburb": "Dandenong",
-      "state": "VIC",
-      "postcode": "3175",
-      "country": "AU",
-      "latitude": -37.98661681,
-      "longitude": 145.21719799,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-20:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-20:00",
-        "Su: 08:30-20:00"
-      ]
-    },
-    {
       "id": "G286",
       "name": "ALDI",
       "address": "Neale Road, Station Road",
@@ -9675,13 +9521,13 @@
       "longitude": 144.57303,
       "phone": "+61 132534",
       "opening_hours": [
-        "Mo: 08:30-19:00",
-        "Tu: 08:30-19:00",
-        "We: 08:30-19:00",
-        "Th: 08:30-19:00",
-        "Fr: 08:30-19:00",
-        "Sa: 08:30-19:00",
-        "Su: 08:30-19:00"
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
       ]
     },
     {
@@ -9704,28 +9550,6 @@
         "Fr: 08:30-20:00",
         "Sa: 08:30-20:00",
         "Su: 08:30-20:00"
-      ]
-    },
-    {
-      "id": "G290",
-      "name": "ALDI",
-      "address": "200-222 Anstruther Street",
-      "street": "200-222 Anstruther Street",
-      "suburb": "Echuca",
-      "state": "VIC",
-      "postcode": "3564",
-      "country": "AU",
-      "latitude": -36.12567,
-      "longitude": 144.75062,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-20:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-19:00",
-        "Su: 08:30-19:00"
       ]
     },
     {
@@ -9917,13 +9741,13 @@
       "longitude": 145.165292,
       "phone": "+61 132534",
       "opening_hours": [
-        "Mo: 08:30-19:00",
-        "Tu: 08:30-19:00",
-        "We: 08:30-19:00",
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
         "Th: 08:30-20:00",
         "Fr: 08:30-20:00",
-        "Sa: 08:30-19:00",
-        "Su: 08:30-19:00"
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
       ]
     },
     {
@@ -10032,8 +9856,8 @@
         "We: 08:30-20:00",
         "Th: 08:30-20:00",
         "Fr: 08:30-20:00",
-        "Sa: 08:30-19:00",
-        "Su: 08:30-19:00"
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
       ]
     },
     {
@@ -10269,13 +10093,13 @@
       "longitude": 142.19807,
       "phone": "+61 132534",
       "opening_hours": [
-        "Mo: 08:30-19:00",
-        "Tu: 08:30-19:00",
-        "We: 08:30-19:00",
-        "Th: 08:30-19:00",
-        "Fr: 08:30-19:00",
-        "Sa: 08:30-19:00",
-        "Su: 08:30-19:00"
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
       ]
     },
     {
@@ -10311,50 +10135,6 @@
       "country": "AU",
       "latitude": -37.72644678642,
       "longitude": 144.80658648578,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-20:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-20:00",
-        "Su: 08:30-20:00"
-      ]
-    },
-    {
-      "id": "G292",
-      "name": "ALDI",
-      "address": "Milleara Road, Buckley Street",
-      "street": "Milleara Road",
-      "suburb": "Keilor East",
-      "state": "VIC",
-      "postcode": "3033",
-      "country": "AU",
-      "latitude": -37.74965114,
-      "longitude": 144.86044495,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-20:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-20:00",
-        "Su: 08:30-20:00"
-      ]
-    },
-    {
-      "id": "G680",
-      "name": "ALDI",
-      "address": "317 Cheltenham Road",
-      "street": "317 Cheltenham Road",
-      "suburb": "Keysborough",
-      "state": "VIC",
-      "postcode": "3173",
-      "country": "AU",
-      "latitude": -37.9941077,
-      "longitude": 145.1751122,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
@@ -10406,8 +10186,8 @@
         "We: 08:30-20:00",
         "Th: 08:30-20:00",
         "Fr: 08:30-20:00",
-        "Sa: 08:30-19:00",
-        "Su: 08:30-19:00"
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
       ]
     },
     {
@@ -10516,8 +10296,8 @@
         "We: 08:30-20:00",
         "Th: 08:30-20:00",
         "Fr: 08:30-20:00",
-        "Sa: 08:30-19:00",
-        "Su: 08:30-19:00"
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
       ]
     },
     {
@@ -10621,11 +10401,11 @@
       "longitude": 143.74258,
       "phone": "+61 132534",
       "opening_hours": [
-        "Mo: 08:30-19:00",
-        "Tu: 08:30-19:00",
-        "We: 08:30-19:00",
-        "Th: 08:30-19:00",
-        "Fr: 08:30-19:00",
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
         "Sa: 08:30-19:00",
         "Su: 08:30-19:00"
       ]
@@ -10868,8 +10648,8 @@
         "We: 08:30-20:00",
         "Th: 08:30-20:00",
         "Fr: 08:30-20:00",
-        "Sa: 08:30-19:00",
-        "Su: 08:30-19:00"
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
       ]
     },
     {
@@ -10929,13 +10709,13 @@
       "longitude": 145.04077,
       "phone": "+61 132534",
       "opening_hours": [
-        "Mo: 08:30-19:00",
-        "Tu: 08:30-19:00",
-        "We: 08:30-19:00",
-        "Th: 08:30-19:00",
-        "Fr: 08:30-19:00",
-        "Sa: 08:30-19:00",
-        "Su: 08:30-19:00"
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
       ]
     },
     {
@@ -10971,28 +10751,6 @@
       "country": "AU",
       "latitude": -37.9365,
       "longitude": 145.19123,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-20:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-20:00",
-        "Su: 08:30-20:00"
-      ]
-    },
-    {
-      "id": "G369",
-      "name": "ALDI",
-      "address": "400 Narre Warren - Cranbourne Road",
-      "street": "400 Narre Warren - Cranbourne Road",
-      "suburb": "Narre Warren",
-      "state": "VIC",
-      "postcode": "3805",
-      "country": "AU",
-      "latitude": -38.06772483,
-      "longitude": 145.30050648,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
@@ -11049,28 +10807,6 @@
       ]
     },
     {
-      "id": "G259",
-      "name": "ALDI",
-      "address": "Separation Street, Cnr High Street",
-      "street": "Separation Street",
-      "suburb": "Northcote",
-      "state": "VIC",
-      "postcode": "3070",
-      "country": "AU",
-      "latitude": -37.76919019,
-      "longitude": 144.99929869,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-20:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-20:00",
-        "Su: 08:30-20:00"
-      ]
-    },
-    {
       "id": "G274",
       "name": "ALDI",
       "address": "12 - 22 Coastal Boulevard",
@@ -11083,13 +10819,13 @@
       "longitude": 144.54023921683,
       "phone": "+61 132534",
       "opening_hours": [
-        "Mo: 08:30-19:00",
-        "Tu: 08:30-19:00",
-        "We: 08:30-19:00",
-        "Th: 08:30-19:00",
-        "Fr: 08:30-19:00",
-        "Sa: 08:30-19:00",
-        "Su: 08:30-19:00"
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
       ]
     },
     {
@@ -11171,11 +10907,11 @@
       "longitude": 141.60267,
       "phone": "+61 132534",
       "opening_hours": [
-        "Mo: 08:30-19:00",
-        "Tu: 08:30-19:00",
-        "We: 08:30-19:00",
-        "Th: 08:30-19:00",
-        "Fr: 08:30-19:00",
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
         "Sa: 08:30-19:00",
         "Su: 08:30-19:00"
       ]
@@ -11220,8 +10956,8 @@
         "We: 08:30-20:00",
         "Th: 08:30-20:00",
         "Fr: 08:30-20:00",
-        "Sa: 08:30-19:00",
-        "Su: 08:30-19:00"
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
       ]
     },
     {
@@ -11257,28 +10993,6 @@
       "country": "AU",
       "latitude": -37.724595,
       "longitude": 145.028945,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-20:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-20:00",
-        "Su: 08:30-20:00"
-      ]
-    },
-    {
-      "id": "G321",
-      "name": "ALDI",
-      "address": "Maroondah Highway, New Street",
-      "street": "Maroondah Highway",
-      "suburb": "Ringwood",
-      "state": "VIC",
-      "postcode": "3134",
-      "country": "AU",
-      "latitude": -37.81571943,
-      "longitude": 145.22306694,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
@@ -11511,28 +11225,6 @@
       ]
     },
     {
-      "id": "G337",
-      "name": "ALDI",
-      "address": "1089/109 Frankston - Flinders Road",
-      "street": "1089/109 Frankston - Flinders Road",
-      "suburb": "Somerville",
-      "state": "VIC",
-      "postcode": "3912",
-      "country": "AU",
-      "latitude": -38.2249733,
-      "longitude": 145.1775545,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-20:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-20:00",
-        "Su: 08:30-20:00"
-      ]
-    },
-    {
       "id": "G293",
       "name": "ALDI",
       "address": "100 Market Street",
@@ -11706,28 +11398,6 @@
         "Fr: 08:30-20:00",
         "Sa: 08:30-20:00",
         "Su: 08:30-20:00"
-      ]
-    },
-    {
-      "id": "G261",
-      "name": "ALDI",
-      "address": "Rutherford Street, Cnr Campbell Street",
-      "street": "Rutherford Street",
-      "suburb": "Swan Hill",
-      "state": "VIC",
-      "postcode": "3585",
-      "country": "AU",
-      "latitude": -35.34260515,
-      "longitude": 143.56081481,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-20:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-19:00",
-        "Su: 08:30-19:00"
       ]
     },
     {
@@ -12034,8 +11704,8 @@
         "We: 08:30-20:00",
         "Th: 08:30-20:00",
         "Fr: 08:30-20:00",
-        "Sa: 08:30-19:00",
-        "Su: 08:30-19:00"
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
       ]
     },
     {
@@ -12056,8 +11726,8 @@
         "We: 08:30-20:00",
         "Th: 08:30-20:00",
         "Fr: 08:30-20:00",
-        "Sa: 08:30-19:00",
-        "Su: 08:30-19:00"
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
       ]
     },
     {
@@ -12193,28 +11863,6 @@
       ]
     },
     {
-      "id": "G247",
-      "name": "ALDI",
-      "address": "Wark Street, Cnr Victoria Cross Parade",
-      "street": "Wark Street",
-      "suburb": "Wodonga",
-      "state": "VIC",
-      "postcode": "3689",
-      "country": "AU",
-      "latitude": -36.13845008,
-      "longitude": 146.8951363,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-20:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-20:00",
-        "Su: 08:30-20:00"
-      ]
-    },
-    {
       "id": "G243",
       "name": "ALDI",
       "address": "72 Elgin Boulevard",
@@ -12234,28 +11882,6 @@
         "Fr: 08:30-20:00",
         "Sa: 08:30-19:00",
         "Su: 08:30-19:00"
-      ]
-    },
-    {
-      "id": "G326",
-      "name": "ALDI",
-      "address": "McKenzie Street, Cnr Murray Street",
-      "street": "McKenzie Street",
-      "suburb": "Wonthaggi",
-      "state": "VIC",
-      "postcode": "3995",
-      "country": "AU",
-      "latitude": -38.60444751,
-      "longitude": 145.59269327,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-20:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-20:00",
-        "Su: 08:30-20:00"
       ]
     },
     {
@@ -12501,28 +12127,6 @@
       ]
     },
     {
-      "id": "G077",
-      "name": "ALDI",
-      "address": "West Street, Cnr Bussell Highway",
-      "street": "West Street",
-      "suburb": "Busselton",
-      "state": "WA",
-      "postcode": "6280",
-      "country": "AU",
-      "latitude": -33.655508,
-      "longitude": 115.3409865,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-19:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-20:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-19:00",
-        "Su: 08:30-19:00"
-      ]
-    },
-    {
       "id": "G059",
       "name": "ALDI",
       "address": "77 Butler Boulevard",
@@ -12677,28 +12281,6 @@
       ]
     },
     {
-      "id": "G741",
-      "name": "ALDI",
-      "address": "8 Portobello Road",
-      "street": "8 Portobello Road",
-      "suburb": "Dalyellup",
-      "state": "WA",
-      "postcode": "6230",
-      "country": "AU",
-      "latitude": -33.3979225,
-      "longitude": 115.6338513,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-21:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-19:00",
-        "Su: 08:30-19:00"
-      ]
-    },
-    {
       "id": "G084",
       "name": "ALDI",
       "address": "1009,1013 Albany Highway",
@@ -12775,28 +12357,6 @@
       "country": "AU",
       "latitude": -32.12646,
       "longitude": 115.92696,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-21:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-17:00",
-        "Su: 11:00-17:00"
-      ]
-    },
-    {
-      "id": "G091",
-      "name": "ALDI",
-      "address": "Banks Avenue, Cnr Marmion Avenue, Whitfords Ave",
-      "street": "Banks Avenue",
-      "suburb": "Hillarys",
-      "state": "WA",
-      "postcode": "6025",
-      "country": "AU",
-      "latitude": -31.79733346,
-      "longitude": 115.74803,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
@@ -13249,28 +12809,6 @@
       ]
     },
     {
-      "id": "G070",
-      "name": "ALDI",
-      "address": "Burgundy Crescent, Lancaster Street",
-      "street": "Burgundy Crescent",
-      "suburb": "Spearwood",
-      "state": "WA",
-      "postcode": "6163",
-      "country": "AU",
-      "latitude": -32.09612723,
-      "longitude": 115.78461466,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-20:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-17:00",
-        "Su: 11:00-17:00"
-      ]
-    },
-    {
       "id": "G068",
       "name": "ALDI",
       "address": "816 Beeliar Drive",
@@ -13325,28 +12863,6 @@
       "country": "AU",
       "latitude": -32.3144,
       "longitude": 115.75439,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-21:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-17:00",
-        "Su: 11:00-17:00"
-      ]
-    },
-    {
-      "id": "G081",
-      "name": "ALDI",
-      "address": "Wanneroo Road, Conlan Avenue",
-      "street": "Wanneroo Road",
-      "suburb": "Wanneroo",
-      "state": "WA",
-      "postcode": "6065",
-      "country": "AU",
-      "latitude": -31.75198194,
-      "longitude": 115.80589768,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
