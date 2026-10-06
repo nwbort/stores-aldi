@@ -2,7 +2,7 @@
   "source": "ALDI Store Locator",
   "page_title": "WA",
   "location": "WA",
-  "total_stores": 49,
+  "total_stores": 53,
   "stores": [
     {
       "id": "G586",
@@ -203,6 +203,28 @@
       ]
     },
     {
+      "id": "G077",
+      "name": "ALDI",
+      "address": "West Street, Cnr Bussell Highway",
+      "street": "West Street",
+      "suburb": "Busselton",
+      "state": "WA",
+      "postcode": "6280",
+      "country": "AU",
+      "latitude": -33.655508,
+      "longitude": 115.3409865,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-19:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-19:00",
+        "Su: 08:30-19:00"
+      ]
+    },
+    {
       "id": "G059",
       "name": "ALDI",
       "address": "77 Butler Boulevard",
@@ -357,6 +379,28 @@
       ]
     },
     {
+      "id": "G741",
+      "name": "ALDI",
+      "address": "8 Portobello Road",
+      "street": "8 Portobello Road",
+      "suburb": "Dalyellup",
+      "state": "WA",
+      "postcode": "6230",
+      "country": "AU",
+      "latitude": -33.3979225,
+      "longitude": 115.6338513,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-21:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-19:00",
+        "Su: 08:30-19:00"
+      ]
+    },
+    {
       "id": "G084",
       "name": "ALDI",
       "address": "1009,1013 Albany Highway",
@@ -367,28 +411,6 @@
       "country": "AU",
       "latitude": -31.99232,
       "longitude": 115.91095,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-21:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-17:00",
-        "Su: 11:00-17:00"
-      ]
-    },
-    {
-      "id": "G065",
-      "name": "ALDI",
-      "address": "The Promenade",
-      "street": "The Promenade",
-      "suburb": "Ellenbrook",
-      "state": "WA",
-      "postcode": "6056",
-      "country": "AU",
-      "latitude": -31.78174,
-      "longitude": 115.97413,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
@@ -433,6 +455,28 @@
       "country": "AU",
       "latitude": -32.12646,
       "longitude": 115.92696,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-21:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-17:00",
+        "Su: 11:00-17:00"
+      ]
+    },
+    {
+      "id": "G091",
+      "name": "ALDI",
+      "address": "Banks Avenue, Cnr Marmion Avenue, Whitfords Ave",
+      "street": "Banks Avenue",
+      "suburb": "Hillarys",
+      "state": "WA",
+      "postcode": "6025",
+      "country": "AU",
+      "latitude": -31.79733346,
+      "longitude": 115.74803,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
@@ -885,6 +929,28 @@
       ]
     },
     {
+      "id": "G070",
+      "name": "ALDI",
+      "address": "Burgundy Crescent, Lancaster Street",
+      "street": "Burgundy Crescent",
+      "suburb": "Spearwood",
+      "state": "WA",
+      "postcode": "6163",
+      "country": "AU",
+      "latitude": -32.09612723,
+      "longitude": 115.78461466,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-17:00",
+        "Su: 11:00-17:00"
+      ]
+    },
+    {
       "id": "G068",
       "name": "ALDI",
       "address": "816 Beeliar Drive",
@@ -939,6 +1005,28 @@
       "country": "AU",
       "latitude": -32.3144,
       "longitude": 115.75439,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-21:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-17:00",
+        "Su: 11:00-17:00"
+      ]
+    },
+    {
+      "id": "G081",
+      "name": "ALDI",
+      "address": "Wanneroo Road, Conlan Avenue",
+      "street": "Wanneroo Road",
+      "suburb": "Wanneroo",
+      "state": "WA",
+      "postcode": "6065",
+      "country": "AU",
+      "latitude": -31.75198194,
+      "longitude": 115.80589768,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
