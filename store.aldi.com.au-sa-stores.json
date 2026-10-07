@@ -2,7 +2,7 @@
   "source": "ALDI Store Locator",
   "page_title": "SA",
   "location": "SA",
-  "total_stores": 46,
+  "total_stores": 47,
   "stores": [
     {
       "id": "G020",
@@ -763,6 +763,28 @@
       "country": "AU",
       "latitude": -34.77514,
       "longitude": 138.618595,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-21:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:00-17:00",
+        "Su: 09:00-17:00"
+      ]
+    },
+    {
+      "id": "G038",
+      "name": "ALDI",
+      "address": "Marion Road, Cnr Anzac Highway",
+      "street": "Marion Road",
+      "suburb": "Plympton",
+      "state": "SA",
+      "postcode": "5038",
+      "country": "AU",
+      "latitude": -34.96564736,
+      "longitude": 138.55389201,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",

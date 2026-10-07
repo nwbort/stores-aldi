@@ -2,7 +2,7 @@
   "source": "ALDI Store Locator",
   "page_title": "WA",
   "location": "WA",
-  "total_stores": 53,
+  "total_stores": 54,
   "stores": [
     {
       "id": "G586",
@@ -411,6 +411,28 @@
       "country": "AU",
       "latitude": -31.99232,
       "longitude": 115.91095,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-21:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-17:00",
+        "Su: 11:00-17:00"
+      ]
+    },
+    {
+      "id": "G065",
+      "name": "ALDI",
+      "address": "Pinaster Parade, Corner The Promenade",
+      "street": "Pinaster Parade",
+      "suburb": "Ellenbrook",
+      "state": "WA",
+      "postcode": "6056",
+      "country": "AU",
+      "latitude": -31.7819487,
+      "longitude": 115.9741686,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",

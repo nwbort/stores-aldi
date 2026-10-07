@@ -2,7 +2,7 @@
   "source": "ALDI Store Locator",
   "page_title": "ALDI Store Locator",
   "location": "Australia",
-  "total_stores": 604,
+  "total_stores": 612,
   "stores": [
     {
       "id": "G571",
@@ -8211,6 +8211,28 @@
       ]
     },
     {
+      "id": "G038",
+      "name": "ALDI",
+      "address": "Marion Road, Cnr Anzac Highway",
+      "street": "Marion Road",
+      "suburb": "Plympton",
+      "state": "SA",
+      "postcode": "5038",
+      "country": "AU",
+      "latitude": -34.96564736,
+      "longitude": 138.55389201,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-21:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:00-17:00",
+        "Su: 09:00-17:00"
+      ]
+    },
+    {
       "id": "G032",
       "name": "ALDI",
       "address": "200 - 220 Commercial Road",
@@ -9047,6 +9069,50 @@
       ]
     },
     {
+      "id": "G255",
+      "name": "ALDI",
+      "address": "1011 Sydney Road, Mahoneys Road",
+      "street": "1011 Sydney Road",
+      "suburb": "Campbellfield",
+      "state": "VIC",
+      "postcode": "3061",
+      "country": "AU",
+      "latitude": -37.72337034,
+      "longitude": 144.96238883,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
+      "id": "G315",
+      "name": "ALDI",
+      "address": "2-18 Koornang Road",
+      "street": "2-18 Koornang Road",
+      "suburb": "Carnegie",
+      "state": "VIC",
+      "postcode": "3163",
+      "country": "AU",
+      "latitude": -37.88463511,
+      "longitude": 145.05842009,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
       "id": "G281",
       "name": "ALDI",
       "address": "29 - 35 Lake Street",
@@ -9707,6 +9773,28 @@
       ]
     },
     {
+      "id": "G254",
+      "name": "ALDI",
+      "address": "Edgars Road, Harvest Home Road",
+      "street": "Edgars Road",
+      "suburb": "Epping",
+      "state": "VIC",
+      "postcode": "3076",
+      "country": "AU",
+      "latitude": -37.62172661,
+      "longitude": 145.00642736,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
       "id": "G282",
       "name": "ALDI",
       "address": "571 - 583 High Street",
@@ -10157,6 +10245,28 @@
       "country": "AU",
       "latitude": -36.7182,
       "longitude": 142.19807,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
+      "id": "G241",
+      "name": "ALDI",
+      "address": "Lockwood Road, Corner High Street",
+      "street": "Lockwood Road",
+      "suburb": "Kangaroo Flat",
+      "state": "VIC",
+      "postcode": "3555",
+      "country": "AU",
+      "latitude": -36.79727409,
+      "longitude": 144.24328735,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
@@ -10785,6 +10895,28 @@
       ]
     },
     {
+      "id": "G683",
+      "name": "ALDI",
+      "address": "241 Main Street",
+      "street": "241 Main Street",
+      "suburb": "Mornington",
+      "state": "VIC",
+      "postcode": "3931",
+      "country": "AU",
+      "latitude": -38.2234472,
+      "longitude": 145.0405524,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
       "id": "G674",
       "name": "ALDI",
       "address": "94/72-82 Princes Drive",
@@ -11345,6 +11477,28 @@
       "country": "AU",
       "latitude": -37.59422,
       "longitude": 143.80551,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
+      "id": "G337",
+      "name": "ALDI",
+      "address": "1089-109 Frankston - Flinders Road",
+      "street": "1089-109 Frankston - Flinders Road",
+      "suburb": "Somerville",
+      "state": "VIC",
+      "postcode": "3912",
+      "country": "AU",
+      "latitude": -38.2249733,
+      "longitude": 145.1775545,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
@@ -12533,6 +12687,28 @@
       "country": "AU",
       "latitude": -31.99232,
       "longitude": 115.91095,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-21:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-17:00",
+        "Su: 11:00-17:00"
+      ]
+    },
+    {
+      "id": "G065",
+      "name": "ALDI",
+      "address": "Pinaster Parade, Corner The Promenade",
+      "street": "Pinaster Parade",
+      "suburb": "Ellenbrook",
+      "state": "WA",
+      "postcode": "6056",
+      "country": "AU",
+      "latitude": -31.7819487,
+      "longitude": 115.9741686,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
