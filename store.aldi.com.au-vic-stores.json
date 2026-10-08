@@ -2,7 +2,7 @@
   "source": "ALDI Store Locator",
   "page_title": "VIC",
   "location": "VIC",
-  "total_stores": 173,
+  "total_stores": 171,
   "stores": [
     {
       "id": "G289",
@@ -621,28 +621,6 @@
       ]
     },
     {
-      "id": "G315",
-      "name": "ALDI",
-      "address": "2-18 Koornang Road",
-      "street": "2-18 Koornang Road",
-      "suburb": "Carnegie",
-      "state": "VIC",
-      "postcode": "3163",
-      "country": "AU",
-      "latitude": -37.88463511,
-      "longitude": 145.05842009,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-20:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-20:00",
-        "Su: 08:30-20:00"
-      ]
-    },
-    {
       "id": "G281",
       "name": "ALDI",
       "address": "29 - 35 Lake Street",
@@ -1203,28 +1181,6 @@
       "country": "AU",
       "latitude": -36.717364,
       "longitude": 144.249994,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-20:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-20:00",
-        "Su: 08:30-20:00"
-      ]
-    },
-    {
-      "id": "G290",
-      "name": "ALDI",
-      "address": "200-222 Anstruther Street",
-      "street": "200-222 Anstruther Street",
-      "suburb": "Echuca",
-      "state": "VIC",
-      "postcode": "3564",
-      "country": "AU",
-      "latitude": -36.12564725,
-      "longitude": 144.75080507,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
