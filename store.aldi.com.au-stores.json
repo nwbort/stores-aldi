@@ -2,7 +2,7 @@
   "source": "ALDI Store Locator",
   "page_title": "ALDI Store Locator",
   "location": "Australia",
-  "total_stores": 608,
+  "total_stores": 612,
   "stores": [
     {
       "id": "G571",
@@ -3085,28 +3085,6 @@
       ]
     },
     {
-      "id": "G764",
-      "name": "ALDI",
-      "address": "84D Roberts Avenue",
-      "street": "84D Roberts Avenue",
-      "suburb": "Mortdale",
-      "state": "NSW",
-      "postcode": "2223",
-      "country": "AU",
-      "latitude": -33.9685403,
-      "longitude": 151.06504379999998,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-21:00",
-        "Tu: 08:30-21:00",
-        "We: 08:30-21:00",
-        "Th: 08:30-21:00",
-        "Fr: 08:30-21:00",
-        "Sa: 08:30-20:00",
-        "Su: 08:30-20:00"
-      ]
-    },
-    {
       "id": "G558",
       "name": "ALDI",
       "address": "3 / 1 Brady Street",
@@ -4075,6 +4053,28 @@
       ]
     },
     {
+      "id": "G398",
+      "name": "ALDI",
+      "address": "410-422 Great Western Highway",
+      "street": "410-422 Great Western Highway",
+      "suburb": "St Marys",
+      "state": "NSW",
+      "postcode": "2760",
+      "country": "AU",
+      "latitude": -33.76992835,
+      "longitude": 150.77143824,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-21:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
       "id": "G400",
       "name": "ALDI",
       "address": "2 Sentry Drive",
@@ -4291,7 +4291,7 @@
         "Th: 08:30-20:00",
         "Fr: 08:30-20:00",
         "Sa: 08:00-20:00",
-        "Su: 09:00-20:00"
+        "Su: 09:00-19:00"
       ]
     },
     {
@@ -4547,6 +4547,28 @@
       "country": "AU",
       "latitude": -33.89798,
       "longitude": 151.21241,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
+      "id": "G537",
+      "name": "ALDI",
+      "address": "339 Great Western Highway",
+      "street": "339 Great Western Highway",
+      "suburb": "Wentworthville",
+      "state": "NSW",
+      "postcode": "2145",
+      "country": "AU",
+      "latitude": -33.81614,
+      "longitude": 150.96972,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
@@ -9069,6 +9091,28 @@
       ]
     },
     {
+      "id": "G315",
+      "name": "ALDI",
+      "address": "2-18 Koornang Road",
+      "street": "2-18 Koornang Road",
+      "suburb": "Carnegie",
+      "state": "VIC",
+      "postcode": "3163",
+      "country": "AU",
+      "latitude": -37.88463511,
+      "longitude": 145.05842009,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
       "id": "G281",
       "name": "ALDI",
       "address": "29 - 35 Lake Street",
@@ -9629,6 +9673,28 @@
       "country": "AU",
       "latitude": -36.717364,
       "longitude": 144.249994,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
+      "id": "G290",
+      "name": "ALDI",
+      "address": "200-222 Anstruther Street",
+      "street": "200-222 Anstruther Street",
+      "suburb": "Echuca",
+      "state": "VIC",
+      "postcode": "3564",
+      "country": "AU",
+      "latitude": -36.12564725,
+      "longitude": 144.75080507,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
@@ -12872,6 +12938,28 @@
         "Fr: 08:30-20:00",
         "Sa: 08:30-17:00",
         "Su: 11:00-17:00"
+      ]
+    },
+    {
+      "id": "G069",
+      "name": "ALDI",
+      "address": "Barrine Road, Cnr Lake Valley Drive, Seppings Parade",
+      "street": "Barrine Road",
+      "suburb": "Lakelands",
+      "state": "WA",
+      "postcode": "6180",
+      "country": "AU",
+      "latitude": -32.47145,
+      "longitude": 115.76127,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-21:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-18:00",
+        "Su: 10:00-17:00"
       ]
     },
     {

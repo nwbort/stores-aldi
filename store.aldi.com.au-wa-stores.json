@@ -2,7 +2,7 @@
   "source": "ALDI Store Locator",
   "page_title": "WA",
   "location": "WA",
-  "total_stores": 53,
+  "total_stores": 54,
   "stores": [
     {
       "id": "G586",
@@ -662,6 +662,28 @@
         "Fr: 08:30-20:00",
         "Sa: 08:30-17:00",
         "Su: 11:00-17:00"
+      ]
+    },
+    {
+      "id": "G069",
+      "name": "ALDI",
+      "address": "Barrine Road, Cnr Lake Valley Drive, Seppings Parade",
+      "street": "Barrine Road",
+      "suburb": "Lakelands",
+      "state": "WA",
+      "postcode": "6180",
+      "country": "AU",
+      "latitude": -32.47145,
+      "longitude": 115.76127,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-21:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-18:00",
+        "Su: 10:00-17:00"
       ]
     },
     {
