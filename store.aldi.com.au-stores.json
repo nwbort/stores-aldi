@@ -2,7 +2,7 @@
   "source": "ALDI Store Locator",
   "page_title": "ALDI Store Locator",
   "location": "Australia",
-  "total_stores": 612,
+  "total_stores": 613,
   "stores": [
     {
       "id": "G571",
@@ -3085,6 +3085,28 @@
       ]
     },
     {
+      "id": "G764",
+      "name": "ALDI",
+      "address": "84D Roberts Avenue",
+      "street": "84D Roberts Avenue",
+      "suburb": "Mortdale",
+      "state": "NSW",
+      "postcode": "2223",
+      "country": "AU",
+      "latitude": -33.9685403,
+      "longitude": 151.06504379999998,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-21:00",
+        "Tu: 08:30-21:00",
+        "We: 08:30-21:00",
+        "Th: 08:30-21:00",
+        "Fr: 08:30-21:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
       "id": "G558",
       "name": "ALDI",
       "address": "3 / 1 Brady Street",
@@ -3651,28 +3673,6 @@
         "Tu: 08:30-20:00",
         "We: 08:30-20:00",
         "Th: 08:30-21:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-20:00",
-        "Su: 08:30-20:00"
-      ]
-    },
-    {
-      "id": "G599",
-      "name": "ALDI",
-      "address": "20 Short Street",
-      "street": "20 Short Street",
-      "suburb": "Port Macquarie",
-      "state": "NSW",
-      "postcode": "2444",
-      "country": "AU",
-      "latitude": -31.4321312,
-      "longitude": 152.9073762,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-20:00",
         "Fr: 08:30-20:00",
         "Sa: 08:30-20:00",
         "Su: 08:30-20:00"
@@ -11125,6 +11125,28 @@
       "country": "AU",
       "latitude": -37.88194,
       "longitude": 144.73561,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
+      "id": "G618",
+      "name": "ALDI",
+      "address": "415 Hacketts Road",
+      "street": "415 Hacketts Road",
+      "suburb": "Point Cook",
+      "state": "VIC",
+      "postcode": "3030",
+      "country": "AU",
+      "latitude": -37.8841838,
+      "longitude": 144.7181889,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
