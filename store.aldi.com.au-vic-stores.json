@@ -2,7 +2,7 @@
   "source": "ALDI Store Locator",
   "page_title": "VIC",
   "location": "VIC",
-  "total_stores": 174,
+  "total_stores": 173,
   "stores": [
     {
       "id": "G289",
@@ -2655,28 +2655,6 @@
       "country": "AU",
       "latitude": -37.88194,
       "longitude": 144.73561,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-20:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-20:00",
-        "Su: 08:30-20:00"
-      ]
-    },
-    {
-      "id": "G618",
-      "name": "ALDI",
-      "address": "415 Hacketts Road",
-      "street": "415 Hacketts Road",
-      "suburb": "Point Cook",
-      "state": "VIC",
-      "postcode": "3030",
-      "country": "AU",
-      "latitude": -37.8841838,
-      "longitude": 144.7181889,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
