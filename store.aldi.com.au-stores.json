@@ -2,7 +2,7 @@
   "source": "ALDI Store Locator",
   "page_title": "ALDI Store Locator",
   "location": "Australia",
-  "total_stores": 610,
+  "total_stores": 612,
   "stores": [
     {
       "id": "G571",
@@ -3082,6 +3082,28 @@
         "Fr: 08:30-20:00",
         "Sa: 08:00-20:00",
         "Su: 09:00-20:00"
+      ]
+    },
+    {
+      "id": "G764",
+      "name": "ALDI",
+      "address": "84D Roberts Avenue",
+      "street": "84D Roberts Avenue",
+      "suburb": "Mortdale",
+      "state": "NSW",
+      "postcode": "2223",
+      "country": "AU",
+      "latitude": -33.9685403,
+      "longitude": 151.06504379999998,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-21:00",
+        "Tu: 08:30-21:00",
+        "We: 08:30-21:00",
+        "Th: 08:30-21:00",
+        "Fr: 08:30-21:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
       ]
     },
     {
@@ -12451,6 +12473,28 @@
         "Tu: 08:30-20:00",
         "We: 08:30-20:00",
         "Th: 08:30-21:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-19:00",
+        "Su: 08:30-19:00"
+      ]
+    },
+    {
+      "id": "G077",
+      "name": "ALDI",
+      "address": "West Street, Cnr Bussell Highway",
+      "street": "West Street",
+      "suburb": "Busselton",
+      "state": "WA",
+      "postcode": "6280",
+      "country": "AU",
+      "latitude": -33.655508,
+      "longitude": 115.3409865,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-19:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
         "Fr: 08:30-20:00",
         "Sa: 08:30-19:00",
         "Su: 08:30-19:00"
