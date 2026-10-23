@@ -2,7 +2,7 @@
   "source": "ALDI Store Locator",
   "page_title": "ALDI Store Locator",
   "location": "Australia",
-  "total_stores": 612,
+  "total_stores": 611,
   "stores": [
     {
       "id": "G571",
@@ -8443,11 +8443,11 @@
       "longitude": 137.53585579763,
       "phone": "+61 132534",
       "opening_hours": [
-        "Mo: 08:00-19:00",
-        "Tu: 08:00-19:00",
-        "We: 08:00-19:00",
-        "Th: 08:00-19:00",
-        "Fr: 08:00-19:00",
+        "Mo: 08:00-20:00",
+        "Tu: 08:00-20:00",
+        "We: 08:00-20:00",
+        "Th: 08:00-20:00",
+        "Fr: 08:00-20:00",
         "Sa: 08:00-19:00",
         "Su: 08:30-19:00"
       ]
@@ -11103,28 +11103,6 @@
       "country": "AU",
       "latitude": -37.89524663499,
       "longitude": 144.75225875194,
-      "phone": "+61 132534",
-      "opening_hours": [
-        "Mo: 08:30-20:00",
-        "Tu: 08:30-20:00",
-        "We: 08:30-20:00",
-        "Th: 08:30-20:00",
-        "Fr: 08:30-20:00",
-        "Sa: 08:30-20:00",
-        "Su: 08:30-20:00"
-      ]
-    },
-    {
-      "id": "G270",
-      "name": "ALDI",
-      "address": "4 Main Street",
-      "street": "4 Main Street",
-      "suburb": "Point Cook",
-      "state": "VIC",
-      "postcode": "3030",
-      "country": "AU",
-      "latitude": -37.88194,
-      "longitude": 144.73561,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
