@@ -2,7 +2,7 @@
   "source": "ALDI Store Locator",
   "page_title": "NSW",
   "location": "NSW",
-  "total_stores": 199,
+  "total_stores": 206,
   "stores": [
     {
       "id": "G501",
@@ -90,6 +90,28 @@
         "Fr: 08:30-20:00",
         "Sa: 08:00-20:00",
         "Su: 09:00-20:00"
+      ]
+    },
+    {
+      "id": "G386",
+      "name": "ALDI",
+      "address": "Walters Road, Cnr Holbeche Road",
+      "street": "Walters Road",
+      "suburb": "Arndell Park",
+      "state": "NSW",
+      "postcode": "2148",
+      "country": "AU",
+      "latitude": -33.78913266,
+      "longitude": 150.88996082,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-21:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
       ]
     },
     {
@@ -1193,6 +1215,28 @@
       ]
     },
     {
+      "id": "G598",
+      "name": "ALDI",
+      "address": "56 Windsor Parade",
+      "street": "56 Windsor Parade",
+      "suburb": "Dubbo",
+      "state": "NSW",
+      "postcode": "2830",
+      "country": "AU",
+      "latitude": -32.252086999999996,
+      "longitude": 148.6312743,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-21:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
       "id": "G417",
       "name": "ALDI",
       "address": "22 Allen Way",
@@ -2205,6 +2249,50 @@
       ]
     },
     {
+      "id": "G477",
+      "name": "ALDI",
+      "address": "Flood Street, Shop 21A Marion Street",
+      "street": "Flood Street",
+      "suburb": "Leichhardt",
+      "state": "NSW",
+      "postcode": "2040",
+      "country": "AU",
+      "latitude": -33.88466,
+      "longitude": 151.14986,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-21:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
+      "id": "G569",
+      "name": "ALDI",
+      "address": "525 Cowpasture Road, ALDI Hoxton Park",
+      "street": "525 Cowpasture Road",
+      "suburb": "Len Waters Estate",
+      "state": "NSW",
+      "postcode": "2171",
+      "country": "AU",
+      "latitude": -33.91855648,
+      "longitude": 150.85481181,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
       "id": "G566",
       "name": "ALDI",
       "address": "5 Emerald Hills Boulevarde",
@@ -2853,6 +2941,28 @@
       "country": "AU",
       "latitude": -32.97713,
       "longitude": 151.66861,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
+      "id": "G533",
+      "name": "ALDI",
+      "address": "Pacific Highway, Cnr Nyarra Road",
+      "street": "Pacific Highway",
+      "suburb": "Mount Kuring-gai",
+      "state": "NSW",
+      "postcode": "2080",
+      "country": "AU",
+      "latitude": -33.65621,
+      "longitude": 151.13409,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
@@ -3679,6 +3789,28 @@
       ]
     },
     {
+      "id": "G398",
+      "name": "ALDI",
+      "address": "410-422 Great Western Highway",
+      "street": "410-422 Great Western Highway",
+      "suburb": "St Marys",
+      "state": "NSW",
+      "postcode": "2760",
+      "country": "AU",
+      "latitude": -33.76992835,
+      "longitude": 150.77143824,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-21:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
       "id": "G400",
       "name": "ALDI",
       "address": "2 Sentry Drive",
@@ -4151,6 +4283,28 @@
       "country": "AU",
       "latitude": -33.89798,
       "longitude": 151.21241,
+      "phone": "+61 132534",
+      "opening_hours": [
+        "Mo: 08:30-20:00",
+        "Tu: 08:30-20:00",
+        "We: 08:30-20:00",
+        "Th: 08:30-20:00",
+        "Fr: 08:30-20:00",
+        "Sa: 08:30-20:00",
+        "Su: 08:30-20:00"
+      ]
+    },
+    {
+      "id": "G537",
+      "name": "ALDI",
+      "address": "339 Great Western Highway",
+      "street": "339 Great Western Highway",
+      "suburb": "Wentworthville",
+      "state": "NSW",
+      "postcode": "2145",
+      "country": "AU",
+      "latitude": -33.81614,
+      "longitude": 150.96972,
       "phone": "+61 132534",
       "opening_hours": [
         "Mo: 08:30-20:00",
